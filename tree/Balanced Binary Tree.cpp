@@ -1,8 +1,8 @@
 /*
  Author:     Zhengjian Kang
- Email:      zhengjian.kang@nyu.edu
  Problem:    Balanced Binary Tree
  Source:     https://oj.leetcode.com/problems/balanced-binary-tree/
+ 
  Notes:
  Given a binary tree, determine if it is height-balanced.
  For this problem, a height-balanced binary tree is defined as a binary tree in which 

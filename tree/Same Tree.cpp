@@ -1,6 +1,5 @@
 /*
  Author:     Zhengjian Kang
- Email:      zhengjian.kang@nyu.edu
  Problem:    Same Tree
  Source:     http://oj.leetcode.com/problems/same-tree/
  

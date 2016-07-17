@@ -1,9 +1,8 @@
 /*
  Author:     Zhengjian Kang
- Email:      zhengjian.kang@nyu.edu
  Problem:    Minimum Depth of Binary Tree
- 
  Source:     https://oj.leetcode.com/problems/minimum-depth-of-binary-tree/
+ 
  Notes:
  Given a binary tree, find its minimum depth.
  The minimum depth is the number of nodes along the shortest path from the root node 
