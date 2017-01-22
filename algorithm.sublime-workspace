@@ -346,6 +346,14 @@
 				"buffer_size": 75,
 				"line_ending": "Unix"
 			}
+		},
+		{
+			"file": "leetcode/98. Validate Binary Search Tree.cpp",
+			"settings":
+			{
+				"buffer_size": 2001,
+				"line_ending": "Unix"
+			}
 		}
 	],
 	"build_system": "Packages/C++11/C++11.sublime-build",
@@ -731,7 +739,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -754,6 +762,35 @@
 						{
 							"origin_encoding": "ASCII",
 							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "leetcode/98. Validate Binary Search Tree.cpp",
+					"settings":
+					{
+						"buffer_size": 2001,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,

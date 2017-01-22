@@ -27,7 +27,6 @@
  *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
  * };
  */
-
 class Solution {
 public:
     // Pre-order traversal (lower bound + higher bound)
