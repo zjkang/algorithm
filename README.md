@@ -1,0 +1,1 @@
+Algorithm includes all practices from leetcode, lintcode and somewhere else
