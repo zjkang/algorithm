@@ -2,7 +2,6 @@
  Author:     Zhengjian Kang
  Problem:    Balanced Binary Tree
  Source:     https://oj.leetcode.com/problems/balanced-binary-tree/
-
  Tags:       {Tree}
  
  Notes:

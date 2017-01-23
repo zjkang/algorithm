@@ -340,18 +340,10 @@
 	"buffers":
 	[
 		{
-			"file": "README.md",
+			"file": "leetcode/103. Binary Tree Zigzag Level Order Traversal.cpp",
 			"settings":
 			{
-				"buffer_size": 75,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "leetcode/98. Validate Binary Search Tree.cpp",
-			"settings":
-			{
-				"buffer_size": 2001,
+				"buffer_size": 1713,
 				"line_ending": "Unix"
 			}
 		}
@@ -428,6 +420,16 @@
 	},
 	"file_history":
 	[
+		"/Users/zhengjiankang/git/algorithm/leetcode/100. Same Tree.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/257. Binary Tree Paths.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/098. Validate Binary Search Tree.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/98. Validate Binary Search Tree.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/437. Path Sum III.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/113. Path Sum II.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/112. Path Sum.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/104. Maximum Depth of Binary Tree.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/101. Minimum Depth of Binary Tree.cpp",
+		"/Users/zhengjiankang/git/algorithm/README.md",
 		"/Users/zhengjiankang/Desktop/course/jin_xin/soccer/soccer.py",
 		"/Users/zhengjiankang/Desktop/course/jin_xin/soccer/db.sql",
 		"/Users/zhengjiankang/Desktop/course/jin_xin/soccer/_sqlite3_help.md",
@@ -545,17 +547,7 @@
 		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Graph/Restore IP Addresses.cpp",
 		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Graph/Clone Graph.cpp",
 		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-DP/Dungeon Game.cpp",
-		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Graph/Subset II.cpp",
-		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Graph/Subset I.cpp",
-		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Graph/Permutations II.cpp",
-		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Graph/Permutations I.cpp",
-		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Graph/Permutation Sequence.cpp",
-		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Graph/Permutation Next.cpp",
-		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Graph/Number Of Islands.cpp",
-		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-DP/Longest Common Subsequence.cpp",
-		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Graph/Combinations.cpp",
-		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Graph/Combination Sum II.cpp",
-		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Graph/Combination Sum I.cpp"
+		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Graph/Subset II.cpp"
 	],
 	"find":
 	{
@@ -739,50 +731,23 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "README.md",
+					"file": "leetcode/103. Binary Tree Zigzag Level Order Traversal.cpp",
 					"settings":
 					{
-						"buffer_size": 75,
+						"buffer_size": 1713,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"origin_encoding": "ASCII",
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "leetcode/98. Validate Binary Search Tree.cpp",
-					"settings":
-					{
-						"buffer_size": 2001,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
+								536,
+								536
 							]
 						],
 						"settings":
@@ -1376,7 +1341,7 @@
 	"show_minimap": false,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": true,
-	"side_bar_width": 147.0,
+	"side_bar_visible": false,
+	"side_bar_width": 224.0,
 	"status_bar_visible": false
 }

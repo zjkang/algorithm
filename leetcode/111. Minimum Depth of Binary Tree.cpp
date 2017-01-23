@@ -2,7 +2,6 @@
  Author:     Zhengjian Kang
  Problem:    Minimum Depth of Binary Tree
  Source:     https://oj.leetcode.com/problems/minimum-depth-of-binary-tree/
- 
  Tags:       {Tree}
 
  Notes:

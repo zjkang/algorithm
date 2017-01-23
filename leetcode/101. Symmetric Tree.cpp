@@ -2,7 +2,6 @@
  Author:     Zhengjian Kang
  Problem:    Symmetric Tree
  Source:     https://oj.leetcode.com/problems/symmetric-tree/
-
  Tags:       {Tree}
  
  Notes:

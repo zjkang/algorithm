@@ -2,7 +2,6 @@
  Author:     Zhengjian Kang
  Problem:    Same Tree
  Source:     http://oj.leetcode.com/problems/same-tree/
-
  Tags:       {Tree}
  
  Notes:

@@ -2,7 +2,6 @@
  Author:     Zhengjian Kang
  Problem:    Binary Tree Paths
  Source:     https://leetcode.com/problems/binary-tree-paths/
-
  Tags:       {Tree}
  
  Notes:

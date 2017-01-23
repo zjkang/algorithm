@@ -2,7 +2,6 @@
  Author:     Zhengjian Kang
  Problem:    Path Sum I
  Source:     https://oj.leetcode.com/problems/path-sum/
-
  Tags:       {Tree}
  
  Notes:
