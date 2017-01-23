@@ -1,5 +1,6 @@
 /*
  Author:     Zhengjian Kang
+ Email:      zhengjian.kang@nyu.edu
  Problem:    Validate Binary Search Tree
  Source:     http://oj.leetcode.com/problems/validate-binary-search-tree/
  Tags:       {Tree}

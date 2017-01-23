@@ -1,5 +1,6 @@
 /*
  Author:     Zhengjian Kang
+ Email:      zhengjian.kang@nyu.edu
  Problem:    Path Sum I
  Source:     https://oj.leetcode.com/problems/path-sum/
  Tags:       {Tree}

@@ -1,5 +1,6 @@
 /*
  Author:     Zhengjian Kang
+ Email:      zhengjian.kang@nyu.edu
  Problem:    Symmetric Tree
  Source:     https://oj.leetcode.com/problems/symmetric-tree/
  Tags:       {Tree}

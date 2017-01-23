@@ -1,5 +1,6 @@
 /*
  Author:     Zhengjian Kang
+ Email:      zhengjian.kang@nyu.edu
  Problem:    Flatten Binary Tree to Linked List
  Source:     https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
  Tags:       {Tree}

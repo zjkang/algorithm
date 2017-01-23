@@ -1,5 +1,6 @@
 /*
  Author:     Zhengjian Kang 
+ Email:      zhengjian.kang@nyu.edu
  Problem:    Maximum Depth of Binary Tree
  Source:     https://oj.leetcode.com/problems/maximum-depth-of-binary-tree/
  Tags:       {Tree}

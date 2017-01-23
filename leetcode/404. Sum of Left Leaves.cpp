@@ -1,5 +1,6 @@
 /*
  Author:     Zhengjian Kang
+ Email:      zhengjian.kang@nyu.edu
  Problem:    Sum of Left Leaves
  Source:     https://leetcode.com/problems/sum-of-left-leaves/
  Tags:       {Tree}

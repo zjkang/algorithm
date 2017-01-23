@@ -1,5 +1,6 @@
 /*
  Author:     Zhengjian Kang
+ Email:      zhengjian.kang@nyu.edu
  Problem:    Binary Tree Paths
  Source:     https://leetcode.com/problems/binary-tree-paths/
  Tags:       {Tree}

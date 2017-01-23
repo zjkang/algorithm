@@ -1,5 +1,6 @@
 /*
  Author:     Zhengjian Kang
+ Email:      zhengjian.kang@nyu.edu
  Problem:    Kth Smallest Element in a BST
  Source:     https://leetcode.com/problems/kth-smallest-element-in-a-bst/
  Tags:       {Tree}

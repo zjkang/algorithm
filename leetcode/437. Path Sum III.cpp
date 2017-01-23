@@ -1,5 +1,6 @@
 /*
  Author:     Zhengjian Kang
+ Email:      zhengjian.kang@nyu.edu
  Problem:    Path Sum III
  Source:     https://leetcode.com/problems/path-sum-iii/
  Tags:       {Tree}

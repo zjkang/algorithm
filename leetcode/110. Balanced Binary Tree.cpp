@@ -1,5 +1,6 @@
 /*
  Author:     Zhengjian Kang
+ Email:      zhengjian.kang@nyu.edu
  Problem:    Balanced Binary Tree
  Source:     https://oj.leetcode.com/problems/balanced-binary-tree/
  Tags:       {Tree}

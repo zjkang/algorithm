@@ -1,5 +1,6 @@
 /*
  Author:     Zhengjian Kang
+ Email:      zhengjian.kang@nyu.edu
  Problem:    Minimum Depth of Binary Tree
  Source:     https://oj.leetcode.com/problems/minimum-depth-of-binary-tree/
  Tags:       {Tree}
