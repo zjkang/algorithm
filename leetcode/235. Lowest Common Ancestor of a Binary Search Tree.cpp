@@ -3,7 +3,9 @@
  Email:      zhengjian.kang@nyu.edu
  Problem:    Lowest Common Ancestor of a Binary Search Tree
  Source:     https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+ Difficulty: Easy
  Tags:       {Tree}
+ Company:    {Amazon}, {Microsoft}, {Facebook}, {Twitter}
  
  Notes:
  Given a binary search tree (BST), find the lowest common ancestor (LCA) of two given nodes in the BST.

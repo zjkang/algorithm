@@ -3,7 +3,9 @@
  Email:      zhengjian.kang@nyu.edu
  Problem:    Validate Binary Search Tree
  Source:     http://oj.leetcode.com/problems/validate-binary-search-tree/
- Tags:       {Tree}
+ Difficulty: Medium
+ Tags:       {Tree}, {Depth-first Search}
+ Company:    {Amazon}, {Microsoft}, {Bloomberg}, {Facebook} 
 
  Notes:
  Given a binary tree, 

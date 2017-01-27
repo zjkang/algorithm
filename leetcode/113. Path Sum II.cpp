@@ -3,7 +3,9 @@
  Email:      zhengjian.kang@nyu.edu
  Problem:    Path Sum II
  Source:     https://oj.leetcode.com/problems/path-sum-ii/
- Tags:       {Tree}
+ Difficulty: Medium
+ Tags:       {Tree}, {Depth-first Search}
+ Company:    {Bloomberg}
  
  Notes:
  Given a binary tree and a sum, find all root-to-leaf paths where each path's sum equals the given sum.

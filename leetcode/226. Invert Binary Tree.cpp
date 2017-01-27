@@ -3,6 +3,7 @@
  Email:      zhengjian.kang@nyu.edu
  Problem:    Invert Binary Tree
  Source:     https://leetcode.com/problems/invert-binary-tree/
+ Difficulty: Easy
  Tags:       {Tree}
  
  Notes:

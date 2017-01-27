@@ -3,7 +3,9 @@
  Email:      zhengjian.kang@nyu.edu
  Problem:    Binary Tree Zigzag Level Order Traversal
  Source:     https://oj.leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
- Tags:       {Tree}
+ Difficulty: Medium
+ Tags:       {Tree}, {Breadth-first Search}, {Stack}
+ Company:    {Linkedin}, {Bloomberg}, {Microsoft}
 
  Notes:
  Given a binary tree, return the zigzag level order traversal of its nodes' values. (ie, from left 

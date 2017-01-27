@@ -3,7 +3,9 @@
  Email:      zhengjian.kang@nyu.edu
  Problem:    Unique Binary Search Trees I
  Source:     http://oj.leetcode.com/problems/unique-binary-search-trees/
- Tags:       {Tree}, {DP}
+ Difficulty: Medium
+ Tags:       {Tree}, {Dynamic Programming}
+ Company:    Snapchat
  
  Notes:
  Given n, how many structurally unique BST's (binary search trees) that store values 1...n?

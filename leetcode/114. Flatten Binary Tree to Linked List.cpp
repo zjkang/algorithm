@@ -3,7 +3,9 @@
  Email:      zhengjian.kang@nyu.edu
  Problem:    Flatten Binary Tree to Linked List
  Source:     https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
- Tags:       {Tree}
+ Difficulty: Medium
+ Tags:       {Tree}, {Depth-first Search}
+ Company:    {Microsoft}
  
  Notes:
  Given a binary tree, flatten it to a linked list in-place.

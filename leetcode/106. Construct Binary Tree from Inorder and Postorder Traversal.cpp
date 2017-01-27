@@ -3,7 +3,9 @@
  Email:      zhengjian.kang@nyu.edu
  Problem:    Construct Binary Tree from Inorder and Postorder Traversal
  Source:     https://oj.leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
- Tags:       {Tree}
+ Difficulty: Medium
+ Tags:       {Tree}, {Array}, {Depth-first Search}
+ Company:    {Microsoft}
 
  Notes:
  Given inorder and postorder traversal of a tree, construct the binary tree.

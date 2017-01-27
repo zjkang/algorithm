@@ -3,7 +3,9 @@
  Email:      zhengjian.kang@nyu.edu
  Problem:    Symmetric Tree
  Source:     https://oj.leetcode.com/problems/symmetric-tree/
- Tags:       {Tree}
+ Difficulty: Easy
+ Tags:       {Tree}, {Depth-first Search}, {Breadth-first Search}
+ Company:    {Linkedin}, {Bloomberg}, {Microsoft}
  
  Notes:
  Given a binary tree, check whether it is a mirror of itself (ie, symmetric around its center).

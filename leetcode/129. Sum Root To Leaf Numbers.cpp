@@ -3,7 +3,8 @@
  Email:      zhengjian.kang@nyu.edu
  Problem:    Sum Root to Leaf Numbers
  Source:     https://oj.leetcode.com/problems/sum-root-to-leaf-numbers/
- Tags:       {Tree}
+ Difficulty: Medium
+ Tags:       {Tree}, {Depth-first Search}
 
  Notes:
  Given a binary tree containing digits from 0-9 only, each root-to-leaf path could represent a number.

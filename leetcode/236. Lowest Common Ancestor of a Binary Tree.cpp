@@ -3,7 +3,9 @@
  Email:      zhengjian.kang@nyu.edu
  Problem:    Lowest Common Ancestor of a Binary Tree
  Source:     https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
+ Difficulty: Medium
  Tags:       {Tree}
+ Company:    {Amazon}, {Linkedin}, {Apple}, {Facebook}, {Microsoft}
  
  Notes:
  Given a binary tree, find the lowest common ancestor (LCA) of two given nodes in the tree.

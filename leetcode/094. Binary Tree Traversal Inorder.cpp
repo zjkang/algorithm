@@ -3,7 +3,9 @@
  Email:      zhengjian.kang@nyu.edu
  Problem:    Binary Tree Inorder Traversal
  Source:     http://oj.leetcode.com/problems/binary-tree-inorder-traversal/
- Tags:       {Tree}
+ Difficulty: Medium
+ Tags:       {Tree}, {Hash Table}, {Stack}
+ Company:    {Microsoft}
 
  Notes:
  Given a binary tree, return the inorder traversal of its nodes' values.

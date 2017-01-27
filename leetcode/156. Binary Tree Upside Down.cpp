@@ -3,7 +3,9 @@
  Email:      zhengjian.kang@nyu.edu
  Problem:    Binary Tree Upside Down
  Source:     https://leetcode.com/problems/binary-tree-upside-down/
+ Difficulty: Medium
  Tags:       {Tree}
+ Company:    {Linkedin}
 
  Notes:
  Given a binary tree where all the right nodes are either leaf nodes with a sibling 

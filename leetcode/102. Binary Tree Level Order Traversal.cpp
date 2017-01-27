@@ -3,7 +3,9 @@
  Email:      zhengjian.kang@nyu.edu
  Problem:    Binary Tree Level Order Traversal
  Source:     https://oj.leetcode.com/problems/binary-tree-level-order-traversal/
- Tags:       {Tree}
+ Difficulty: Medium
+ Tags:       {Tree}, {Breadth-first Search}
+ Company:    {Linkedin}, {Facebook}, {Amazon}, {Microsoft}, {Apple}, {Bloomberg}
  
  Notes:
  Given a binary tree, return the level order traversal of its nodes' values. 

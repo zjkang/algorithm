@@ -3,7 +3,9 @@
  Email:      zhengjian.kang@nyu.edu
  Problem:    Encode and Decode Strings
  Source:     https://leetcode.com/problems/encode-and-decode-strings/
- Tags:       {String}, {Google}
+ Difficulty: Medium
+ Tags:       {String} 
+ Company:    {Google}
  
  Notes:
  Design an algorithm to encode a list of strings to a string. 

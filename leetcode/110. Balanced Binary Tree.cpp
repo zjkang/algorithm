@@ -3,7 +3,9 @@
  Email:      zhengjian.kang@nyu.edu
  Problem:    Balanced Binary Tree
  Source:     https://oj.leetcode.com/problems/balanced-binary-tree/
- Tags:       {Tree}
+ Difficulty: Easy
+ Tags:       {Tree}, {Dapth-first Search}
+ Company:    {Bloomberg}
  
  Notes:
  Given a binary tree, determine if it is height-balanced.

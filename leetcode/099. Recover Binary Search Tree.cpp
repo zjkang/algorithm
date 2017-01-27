@@ -3,7 +3,8 @@
  Email:      zhengjian.kang@nyu.edu
  Problem:    Recover Binary Search Tree
  Source:     http://oj.leetcode.com/problems/recover-binary-search-tree/
- Tags:       {Tree}
+ Difficulty: Hard
+ Tags:       {Tree}, {Depth-first Search}
 
  Notes:
  Two elements of a binary search tree (BST) are swapped by mistake.

@@ -3,7 +3,9 @@
  Email:      zhengjian.kang@nyu.edu
  Problem:    Construct Binary Tree from Preorder and Inorder Traversal
  Source:     https://oj.leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
- Tags:       {Tree}
+ Difficulty: Medium
+ Tags:       {Tree}, {Array}, {Depth-first Search}
+ Company:    {Bloomberg}
 
  Notes:
  Given preorder and inorder traversal of a tree, construct the binary tree.

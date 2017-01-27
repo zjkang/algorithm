@@ -3,7 +3,8 @@
  Email:      zhengjian.kang@nyu.edu
  Problem:    Binary Tree Postorder Traversal 
  Source:     http://oj.leetcode.com/problems/binary-tree-postorder-traversal/
- Tags:       {Tree}
+ Difficulty: Hard
+ Tags:       {Tree}, {Stack}
  
  Notes:
  Given a binary tree, return the postorder traversal of its nodes' values.

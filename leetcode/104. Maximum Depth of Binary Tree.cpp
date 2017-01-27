@@ -3,7 +3,9 @@
  Email:      zhengjian.kang@nyu.edu
  Problem:    Maximum Depth of Binary Tree
  Source:     https://oj.leetcode.com/problems/maximum-depth-of-binary-tree/
- Tags:       {Tree}
+ Difficulty: Easy
+ Tags:       {Tree}, {Depth-first Search}
+ Company:    {Linkedin}, {Uber}, {Apple}, {Yahoo}
  
  Notes:
  Given a binary tree, find its maximum depth.

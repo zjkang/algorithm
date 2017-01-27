@@ -3,7 +3,8 @@
  Email:      zhengjian.kang@nyu.edu
  Problem:    Binary Tree Preorder Traversal
  Source:     http://oj.leetcode.com/problems/binary-tree-preorder-traversal/
- Tags:       {Tree}
+ Difficulty: Medium
+ Tags:       {Tree}, {Stack}
  
  Notes:
  Given a binary tree, return the preorder traversal of its nodes' values.

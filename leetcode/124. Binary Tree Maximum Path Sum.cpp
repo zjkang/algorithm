@@ -3,7 +3,9 @@
  Email:      zhengjian.kang@nyu.edu
  Problem:    Binary Tree Maximum Path Sum
  Source:     https://oj.leetcode.com/problems/binary-tree-maximum-path-sum/
- Tags:       {Tree}
+ Difficulty: Hard
+ Tags:       {Tree}, {Depth-first Search}
+ Company:    {Microsoft}, {Baidu}
 
  Notes:
  Given a binary tree, find the maximum path sum.

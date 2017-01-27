@@ -3,7 +3,8 @@
  Email:      zhengjian.kang@nyu.edu
  Problem:    Count Complete Tree Nodes
  Source:     https://leetcode.com/problems/count-complete-tree-nodes/
- Tags:       {Tree}
+ Difficulty: Medium
+ Tags:       {Binary Search}, {Tree}
  
  Notes:
  Given a complete binary tree, count the number of nodes.

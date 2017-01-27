@@ -3,6 +3,7 @@
  Email:      zhengjian.kang@nyu.edu
  Problem:    Binary Tree Level Order Traversal II
  Source:     https://oj.leetcode.com/problems/binary-tree-level-order-traversal-ii/
+ Difficulty: Easy
  Tags:       {Tree}
  
  Notes:

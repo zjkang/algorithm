@@ -3,7 +3,9 @@
  Email:      zhengjian.kang@nyu.edu
  Problem:    Binary Search Tree Iterator
  Source:     https://leetcode.com/problems/binary-search-tree-iterator/
- Tags:       {Tree}
+ Difficulty: Medium
+ Tags:       {Tree}, {Stack}, {Design}
+ Company:    {Linkedin}, {Google}, {Facebook}, {Microsoft}
 
  Notes:
  Implement an iterator over a binary search tree (BST). 

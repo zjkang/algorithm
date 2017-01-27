@@ -3,7 +3,9 @@
  Email:      zhengjian.kang@nyu.edu
  Problem:    Kth Smallest Element in a BST
  Source:     https://leetcode.com/problems/kth-smallest-element-in-a-bst/
- Tags:       {Tree}
+ Difficulty: Medium
+ Tags:       {Binary Search}, {Tree}
+ Company:    {Bloomberg}, {Uber}, {Google}
  
  Notes:
  Given a binary search tree, write a function kthSmallest to find the kth smallest element in it.

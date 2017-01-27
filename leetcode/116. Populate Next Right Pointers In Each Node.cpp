@@ -3,7 +3,9 @@
  Email:      zhengjian.kang@nyu.edu
  Problem:    Populating Next Right Pointers in Each Node I
  Source:     https://oj.leetcode.com/problems/populating-next-right-pointers-in-each-node/
- Tags:       {Tree}
+ Difficulty: Medium
+ Tags:       {Tree}, {Depth-first Search}
+ Company:    {Microsoft}
 
  Notes:
  Given a binary tree

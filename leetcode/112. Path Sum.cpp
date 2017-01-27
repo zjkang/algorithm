@@ -3,7 +3,9 @@
  Email:      zhengjian.kang@nyu.edu
  Problem:    Path Sum I
  Source:     https://oj.leetcode.com/problems/path-sum/
- Tags:       {Tree}
+ Difficulty: Easy
+ Tags:       {Tree}, {Dapth-first Search}
+ Company:    {Microsoft}
  
  Notes:
  Given a binary tree and a sum, determine if the tree has a root-to-leaf path such that adding up 

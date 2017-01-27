@@ -3,7 +3,9 @@
  Email:      zhengjian.kang@nyu.edu
  Problem:    Same Tree
  Source:     http://oj.leetcode.com/problems/same-tree/
- Tags:       {Tree}
+ Difficulty: Easy
+ Tags:       {Tree}, {Depth-first Search}
+ Company:    {Bloomberg}
  
  Notes:
  Given two binary trees, write a function to check if they are equal or not.

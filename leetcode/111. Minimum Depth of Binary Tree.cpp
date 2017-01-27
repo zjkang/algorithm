@@ -3,7 +3,8 @@
  Email:      zhengjian.kang@nyu.edu
  Problem:    Minimum Depth of Binary Tree
  Source:     https://oj.leetcode.com/problems/minimum-depth-of-binary-tree/
- Tags:       {Tree}
+ Difficulty: Easy
+ Tags:       {Tree}, {Depth-first Search}, {Breadth-first Search}
 
  Notes:
  Given a binary tree, find its minimum depth.

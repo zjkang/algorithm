@@ -3,7 +3,9 @@
  Email:      zhengjian.kang@nyu.edu
  Problem:    Sum of Left Leaves
  Source:     https://leetcode.com/problems/sum-of-left-leaves/
+ Difficulty: Easy
  Tags:       {Tree}
+ Company:    {Facebook}
  
  Notes:
  Find the sum of all left leaves in a given binary tree.

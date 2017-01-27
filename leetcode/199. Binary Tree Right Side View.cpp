@@ -3,7 +3,9 @@
  Email:      zhengjian.kang@nyu.edu
  Problem:    Binary Tree Right Side View 
  Source:     https://leetcode.com/problems/binary-tree-right-side-view/
- Tags:       {Tree}
+ Difficulty: {Medium}
+ Tags:       {Tree}, {Depth-first Search}, {Breadth-first Search}
+ Company:    {Amazon}
 
  Notes:
  Given a binary tree, imagine yourself standing on the right side of it, 

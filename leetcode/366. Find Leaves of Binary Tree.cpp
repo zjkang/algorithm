@@ -3,7 +3,9 @@
  Email:      zhengjian.kang@nyu.edu
  Problem:    Find Leaves of Binary Tree
  Source:     https://leetcode.com/problems/find-leaves-of-binary-tree/
+ Difficulty: Medium
  Tags:       {Tree}
+ Company:    {Linkedin}
  
  Notes:
  Given a binary tree, collect a tree's nodes as if you were doing this: 
