@@ -3,6 +3,7 @@
  Email:      zhengjian.kang@nyu.edu
  Problem:    Reorder List
  Source:     https://leetcode.com/problems/reorder-list/
+ Difficulty: Medium
  Tags:       {Linked List}
 
  Notes:
