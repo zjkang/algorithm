@@ -3,6 +3,7 @@
  Email:     zhengjian.kang@nyu.edu
  Problem:   Remove Duplicates from Sorted Array II
  Source:    https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/?tab=Description
+ Difficulty: Medium
  Tags:      {Array}, {Two Pointers}
  Company:   Facebook
 
