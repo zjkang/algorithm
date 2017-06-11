@@ -339,6 +339,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "leetcode/538. Convert BST to Greater Tree.cpp",
+			"settings":
+			{
+				"buffer_size": 1266,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "Packages/C++11/C++11.sublime-build",
 	"command_palette":
@@ -723,8 +731,38 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "leetcode/538. Convert BST to Greater Tree.cpp",
+					"settings":
+					{
+						"buffer_size": 1266,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								212,
+								212
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 192.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -773,6 +811,10 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"538",
+				"538. Convert BST to Greater Tree.cpp"
+			],
 			[
 				"num",
 				"Graph/Number Of Islands.cpp"
@@ -1280,10 +1322,6 @@
 			[
 				"spiral",
 				"algorithm-leetcode/058_SpiralMatrixII.cpp"
-			],
-			[
-				"edit",
-				"algorithm-leetcode/072_EditDistance.cpp"
 			]
 		],
 		"width": 0.0
@@ -1303,7 +1341,7 @@
 	"show_minimap": false,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 224.0,
 	"status_bar_visible": false
 }
