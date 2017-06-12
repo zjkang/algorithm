@@ -34,6 +34,7 @@
 class Solution {
 public:
     int dfs(TreeNode* root, int& res) {
+        // Simple version of Max sum of binary tree 
         if (!root) {
             return 0;
         }
