@@ -3,6 +3,7 @@
 用来记录业余时间所做的算法题目，同时保持对于数据结构的熟悉。
 
 ## ** Leetcode 题目列表
+- 530 [Minimum Absolute Difference in BST](https://github.com/zjkang/algorithm/blob/master/leetcode/530.%20Minimum%20Absolute%20Difference%20in%20BST.cpp)
 - 531 [Lonely Pixel I](https://github.com/zjkang/algorithm/blob/master/leetcode/531.%20Lonely%20Pixel%20I.cpp)
 - 533 [Lonely Pixel II](https://github.com/zjkang/algorithm/blob/master/leetcode/533.%20Lonely%20Pixel%20II.cpp)
 - 543 [Diameter Binary Tree](https://github.com/zjkang/algorithm/blob/master/leetcode/543.%20Diameter%20of%20Binary%20Tree.cpp)

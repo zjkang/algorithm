@@ -2,7 +2,7 @@
  Author:     Zhengjian Kang
  Email:      zhengjian.kang@nyu.edu
  Problem:    Minimum Absolute Difference in BST
- Source:     https://leetcode.com/problems/minimum-absolute-difference-in-bst/?tab=Description
+ Source:     https://leetcode.com/problems/minimum-absolute-difference-in-bst/#/description
  Difficulty: Easy
  Company:    Google
  Tags:       {Binary Search Tree}
