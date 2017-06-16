@@ -3,6 +3,7 @@
 用来记录业余时间所做的算法题目，同时保持对于数据结构的熟悉。
 
 ## ** Leetcode 题目列表
+- 261 [Graph Valid Tree](https://github.com/zjkang/algorithm/blob/master/leetcode/261.%20Graph%20Valid%20Tree.cpp)
 - 521 [Longest Uncommon Subsequence I](https://github.com/zjkang/algorithm/blob/master/leetcode/521.%20Longest%20Uncommon%20Subsequence%20I.cpp)
 - 522 [Longest Uncommon Subsequence II](https://github.com/zjkang/algorithm/blob/master/leetcode/522.%20Longest%20Uncommon%20Subsequence%20II.cpp)
 - 530 [Minimum Absolute Difference in BST](https://github.com/zjkang/algorithm/blob/master/leetcode/530.%20Minimum%20Absolute%20Difference%20in%20BST.cpp)
