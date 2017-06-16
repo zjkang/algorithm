@@ -2,7 +2,7 @@
  Author:     Zhengjian Kang
  Email:      zhengjian.kang@nyu.edu
  Problem:    Heaters
- Source:     https://leetcode.com/problems/heaters/?tab=Description
+ Source:     https://leetcode.com/problems/heaters/#/description
  Difficulty: Easy
  Tags:       {Binary Search}
  Company:    Google
@@ -44,6 +44,7 @@ public:
             int start = 0, end = heaters.size() - 1;
             bool isHeated = false;
             while (start <= end) {
+                // binary search to find min distance between house i to nearest heaters
                 int mid = start + (end - start) / 2;
                 if (houses[i] == heaters[mid]) {
                     isHeated = true;
