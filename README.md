@@ -3,6 +3,7 @@
 用来记录业余时间所做的算法题目，同时保持对于数据结构的熟悉。
 
 ## ** Leetcode 题目列表
+- 231 [Power of Two](https://github.com/zjkang/algorithm/blob/master/leetcode/231.%20Power%20of%20Two.cpp)
 - 261 [Graph Valid Tree](https://github.com/zjkang/algorithm/blob/master/leetcode/261.%20Graph%20Valid%20Tree.cpp)
 - 475 [Heaters](https://github.com/zjkang/algorithm/blob/master/leetcode/475.%20Heaters.cpp)
 - 485 [Max Consecutive Ones](https://github.com/zjkang/algorithm/blob/master/leetcode/485.%20Max%20Consecutive%20Ones.cpp)
