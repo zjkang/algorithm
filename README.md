@@ -4,6 +4,8 @@
 
 ## ** Leetcode 题目列表
 - 261 [Graph Valid Tree](https://github.com/zjkang/algorithm/blob/master/leetcode/261.%20Graph%20Valid%20Tree.cpp)
+- 485 [Max Consecutive Ones](https://github.com/zjkang/algorithm/blob/master/leetcode/485.%20Max%20Consecutive%20Ones.cpp)
+- 486 [Predict the Winner](https://github.com/zjkang/algorithm/blob/master/leetcode/486.%20Predict%20the%20Winner.cpp)
 - 521 [Longest Uncommon Subsequence I](https://github.com/zjkang/algorithm/blob/master/leetcode/521.%20Longest%20Uncommon%20Subsequence%20I.cpp)
 - 522 [Longest Uncommon Subsequence II](https://github.com/zjkang/algorithm/blob/master/leetcode/522.%20Longest%20Uncommon%20Subsequence%20II.cpp)
 - 530 [Minimum Absolute Difference in BST](https://github.com/zjkang/algorithm/blob/master/leetcode/530.%20Minimum%20Absolute%20Difference%20in%20BST.cpp)

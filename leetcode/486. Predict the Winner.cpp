@@ -2,7 +2,7 @@
  Author:     Zhengjian Kang
  Email:      zhengjian.kang@nyu.edu
  Problem:    Predict the Winner
- Source:     https://leetcode.com/problems/predict-the-winner/
+ Source:     https://leetcode.com/problems/predict-the-winner/#/description
  Difficulty: Medium
  Tags:       {Dynamic Programming}, {Minimax}
  Company:    Google
@@ -48,6 +48,7 @@ public:
             sum[i] = sum[i-1] + nums[i];
         }
         
+        // max possible value between [i,j]
         vector<vector<int>> dp(nums.size(), vector<int>(nums.size(), 0));
         for (int i = 0; i < nums.size(); ++i) {
             dp[i][i] = nums[i];
