@@ -5,7 +5,7 @@
 ## ** Leetcode 题目列表
 - 231 [Power of Two](https://github.com/zjkang/algorithm/blob/master/leetcode/231.%20Power%20of%20Two.cpp)
 - 261 [Graph Valid Tree](https://github.com/zjkang/algorithm/blob/master/leetcode/261.%20Graph%20Valid%20Tree.cpp)
-- 402 [Remove K Digits]()
+- 402 [Remove K Digits](https://github.com/zjkang/algorithm/blob/master/leetcode/402.%20Remove%20K%20Digits.cpp)
 - 475 [Heaters](https://github.com/zjkang/algorithm/blob/master/leetcode/475.%20Heaters.cpp)
 - 485 [Max Consecutive Ones](https://github.com/zjkang/algorithm/blob/master/leetcode/485.%20Max%20Consecutive%20Ones.cpp)
 - 486 [Predict the Winner](https://github.com/zjkang/algorithm/blob/master/leetcode/486.%20Predict%20the%20Winner.cpp)
