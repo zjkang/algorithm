@@ -45,6 +45,8 @@ public:
     
     string removeKdigits(string num, int k) {
         if (num.size() <= k || num.size() == 0) return "0";
+        // stack is used to preserve a increasing number vector.
+        // consider element order in stack
         stack<int> s;
         int counter = 0, l = 0;
         while (l < num.size()) {
