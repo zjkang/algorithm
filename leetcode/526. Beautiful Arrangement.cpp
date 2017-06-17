@@ -40,7 +40,7 @@ class Solution {
 public:
     void dfs(vector<int>& nums, vector<bool>& available, int count, int& res) {
         int N = nums.size();
-        if (count == N) {
+        if (count == N) { // backtracking
             res++;
             return;
         }
@@ -54,9 +54,7 @@ public:
     }
 
     int countArrangement(int N) {
-        if (N == 1) {
-            return 1;
-        }
+        if (N == 1) return 1;
         
         vector<int> nums(N, 0);
         vector<bool> available(N, true);
