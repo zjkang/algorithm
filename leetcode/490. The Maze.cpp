@@ -4,8 +4,8 @@
  Problem:    The Maze
  Source:     https://leetcode.com/problems/the-maze/
  Difficulty: Medium
+ Company:    Google
  Tags:       {Depth-first Search}, {Breadth-first Search}
- Company:    {Google}
 
  Notes:
  There is a ball in a maze with empty spaces and walls. 
@@ -81,7 +81,7 @@ public:
         vector<int> curr = start;
         
         for (int i = 0;i < offset.size(); ++i) {
-            auto next = getPosOfHitWall(maze, curr, i);
+            auto next = getPosOfHitWall(maze, curr, i); // the position until the ball his on the wall
             if (next[0] == destination[0] && next[1] == destination[1]) {
                 return true;
             } else if ((next[0] == curr[0] && next[1] == curr[1]) || visited[next[0]][next[1]] == true) {
