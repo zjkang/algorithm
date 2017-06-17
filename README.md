@@ -9,6 +9,7 @@
 - 475 [Heaters](https://github.com/zjkang/algorithm/blob/master/leetcode/475.%20Heaters.cpp)
 - 485 [Max Consecutive Ones](https://github.com/zjkang/algorithm/blob/master/leetcode/485.%20Max%20Consecutive%20Ones.cpp)
 - 486 [Predict the Winner](https://github.com/zjkang/algorithm/blob/master/leetcode/486.%20Predict%20the%20Winner.cpp)
+- 494 [Target Sum](https://github.com/zjkang/algorithm/blob/master/leetcode/494.%20Target%20Sum.cpp)
 - 500 [Keyboard Row](https://github.com/zjkang/algorithm/blob/master/leetcode/500.%20Keyboard%20Row.cpp)
 - 501 [Find Mode in Binary Search Tree](https://github.com/zjkang/algorithm/blob/master/leetcode/501.%20Find%20Mode%20in%20Binary%20Search%20Tree.cpp)
 - 506 [Relative Ranks](https://github.com/zjkang/algorithm/blob/master/leetcode/506.%20Relative%20Ranks.cpp)
