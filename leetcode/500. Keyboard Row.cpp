@@ -23,7 +23,7 @@ class Solution {
 public:
     vector<string> findWords(vector<string>& words) {
         if (words.empty()) return {};
-        unordered_map<char,int> map;
+        unordered_map<char,int> map; // hash to store row positon
         vector<string> letters = {"qwertyuiop", "asdfghjkl", "zxcvbnm"};
         for (int i = 0; i < letters.size(); ++i) {
             for (auto c : letters[i]) {
