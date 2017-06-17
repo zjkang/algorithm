@@ -27,7 +27,7 @@ public:
         return lhs.second > rhs.second;
     }
     vector<string> findRelativeRanks(vector<int>& nums) {
-        vector<pair<int,int>> indexNums;
+        vector<pair<int,int>> indexNums; // <index, score>
         for (int i = 0; i < nums.size(); ++i) {
             indexNums.push_back({i, nums[i]});
         }
