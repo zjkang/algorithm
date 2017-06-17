@@ -30,11 +30,11 @@
 class Solution {
 public:
     // dp[i][j]: longest Palindromic length between i and j.
-    // dp[i][j] = max(dp[i][j-1], s[k] == s[j] ? dp[k+1][j] + 2)
+    // dp[i][j] = max(dp[i][j-1], dp[i+1][j]), i != j
+    //            2 + dp[i+1][j-1], i == j 
     int longestPalindromeSubseq(string s) {
-        if (s.empty()) {
-            return 0;
-        }
+        if (s.empty()) return 0;
+        
         int len = s.length();
         vector<vector<int>> dp(len, vector<int>(len, 1));
         for (int l = 1; l <= len; ++l) {
@@ -44,12 +44,10 @@ public:
                 } else if (l == 2) {
                     dp[i][i+1] = s[i] == s[i+1] ? 2 : 1;
                 } else {
-                    dp[i][i+l-1] = dp[i][i+l-2];
-                    for (int j = i; j < i + l - 1; ++j) {
-                        if (s[j] == s[i+l-1]) {
-                            dp[i][i+l-1] = max(dp[i][i+l-1], j+1 <= i+l-2 ? dp[j+1][i+l-2] + 2 : 2);
-                            break;
-                        }
+                    if (s[i] == s[i+l-1]) {
+                        dp[i][i+l-1] = dp[i+1][i+l-2] + 2;
+                    } else {
+                        dp[i][i+l-1] = max(dp[i+1][i+l-1], dp[i][i+l-2]);
                     }
                 }
             }
