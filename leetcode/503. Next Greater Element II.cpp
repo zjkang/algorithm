@@ -37,11 +37,11 @@ public:
                 res[s.top()] = nums[i];
                 s.pop();
             }
-            if (!s.empty() && s.top() == i) {
+            if (!s.empty() && s.top() == i) { // traverse back to the same index
                 break;
             }
             if (!visited[i]) {
-                s.push(i);
+                s.push(i); // guarantee push to stack once
                 visited[i] = true;
             }
             i = (i+1) % size;
