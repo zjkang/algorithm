@@ -40,6 +40,7 @@
 - 562 [Longest Line of Consecutive One in Matrix](https://github.com/zjkang/algorithm/blob/master/leetcode/562.%20Longest%20Line%20of%20Consecutive%20One%20in%20Matrix.cpp)
 - 566 [Reshape the Matrix](https://github.com/zjkang/algorithm/blob/master/leetcode/566.%20Reshape%20the%20Matrix.cpp)
 - 568 [Maximum Vacation Days](https://github.com/zjkang/algorithm/blob/master/leetcode/568.%20Maximum%20Vacation%20Days.cpp)
+- 573 [Squirrel Simulation](https://github.com/zjkang/algorithm/blob/master/leetcode/573.%20Squirrel%20Simulation.cpp)
 - 581 [Shortest Unsorted Continuous Subarray](https://github.com/zjkang/algorithm/blob/master/leetcode/581.%20Shortest%20Unsorted%20Continuous%20Subarray.cpp)
 - 583 [Delete Operation for Two Strings](https://github.com/zjkang/algorithm/blob/master/leetcode/583.%20Delete%20Operation%20for%20Two%20Strings.cpp)
 - 604 [Design Compressed String Iterator](https://github.com/zjkang/algorithm/blob/master/leetcode/604.%20Design%20Compressed%20String%20Iterator.cpp)
