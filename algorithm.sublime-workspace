@@ -340,10 +340,10 @@
 	"buffers":
 	[
 		{
-			"file": "leetcode/538. Convert BST to Greater Tree.cpp",
+			"file": "README.md",
 			"settings":
 			{
-				"buffer_size": 1266,
+				"buffer_size": 6089,
 				"line_ending": "Unix"
 			}
 		}
@@ -420,6 +420,51 @@
 	},
 	"file_history":
 	[
+		"/Users/zhengjiankang/git/algorithm/leetcode/625. Minimum Factorization.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/545. Boundary of Binary Tree.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/524. Longest Word in Dictionary through Deleting.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/573. Squirrel Simulation.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/604. Design Compressed String Iterator.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/556. Next Greater Element III.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/503. Next Greater Element II.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/496. Next Greater Element I.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/536. Construct Binary Tree from String.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/551. Student Attendance Record I.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/562. Longest Line of Consecutive One in Matrix.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/623. Add One Row to Tree.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/566. Reshape the Matrix.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/515. Find Largest Value in Each Tree Row.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/490. The Maze.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/494. Target Sum.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/402. Remove K Digits.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/402. *** Remove K Digits.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/506. Relative Ranks.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/508. Most Frequent Subtree Sum.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/501. Find Mode in Binary Search Tree.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/500. Keyboard Row.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/516. Longest Palindromic Subsequence.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/520. Detect Capital.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/525. Contiguous Array.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/526. Beautiful Arrangement.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/538. Convert BST to Greater Tree.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/231. Power of Two.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/475. Heaters.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/486. Predict the Winner.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/485. Max Consecutive Ones.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/261. Graph Valid Tree.cpp",
+		"/Users/zhengjiankang/git/algorithm/COMPANY.md",
+		"/Users/zhengjiankang/git/algorithm/leetcode/606. Construct String from Binary Tree.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/617. Merge Two Binary Trees.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/522. Longest Uncommon Subsequence II.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/521. Longest Uncommon Subsequence I.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/583. Delete Operation for Two Strings.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/560. Subarray Sum Equals K.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/560. .cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/549. Binary Tree Longest Consecutive Sequence II.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/530. Minimum Absolute Difference in BST.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/544. Output Contest Matches.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/543. Diameter of Binary Tree.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/568. Maximum Vacation Days.cpp",
 		"/Users/zhengjiankang/git/algorithm/leetcode/094. Binary Tree Traversal Inorder.cpp",
 		"/Users/zhengjiankang/git/algorithm/leetcode/095. Unique Binary Search Trees II.cpp",
 		"/Users/zhengjiankang/git/algorithm/leetcode/096. Unique Binary Search Trees.cpp",
@@ -460,7 +505,6 @@
 		"/Users/zhengjiankang/git/algorithm/leetcode/366. Find Leaves of Binary Tree.cpp",
 		"/Users/zhengjiankang/git/algorithm/leetcode/404. Sum of Left Leaves.cpp",
 		"/Users/zhengjiankang/git/algorithm/leetcode/437. Path Sum III.cpp",
-		"/Users/zhengjiankang/git/algorithm/leetcode/485. Max Consecutive Ones.cpp",
 		"/Users/zhengjiankang/git/algorithm/leetcode/482. License Key Formatting.cpp",
 		"/Users/zhengjiankang/git/algorithm/leetcode/98. Validate Binary Search Tree.cpp",
 		"/Users/zhengjiankang/git/algorithm/leetcode/101. Minimum Depth of Binary Tree.cpp",
@@ -503,51 +547,7 @@
 		"/C/Users/kang/AppData/Roaming/Sublime Text 2/Packages/LaTeXTools/LaTeX.sublime-build",
 		"/C/Users/kang/AppData/Roaming/Sublime Text 2/Packages/LaTeXTools/LaTeX.sublime-build.OLD",
 		"/C/Users/kang/AppData/Roaming/Sublime Text 2/Packages/LaTeXTools/LaTeX.sublime-commands",
-		"/C/Users/kang/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
-		"/C/Users/kang/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
-		"/K/Dropbox/research_papers/PHD Writing/PHD论文/thesis/Conclusion/Conclusion.tex",
-		"/K/Dropbox/research_papers/PHD Writing/PHD论文/thesis/MultiScaleTracker/MultiScaleTracker.tex",
-		"/K/Dropbox/research_papers/PHD Writing/PHD论文/thesis/Main.tex",
-		"/K/Dropbox/research_papers/PHD Writing/PHD论文/thesis/thesis_bibliography.bib",
-		"/Users/zhengjiankang/Dropbox/research_papers/PHD Writing/PHD论文/thesis/MultiScaleTrack/MultiScaleTracker.tex",
-		"/Users/zhengjiankang/Dropbox/research_papers/PHD Writing/PHD论文/thesis/HoughTrack/HoughTracker.tex",
-		"/Users/zhengjiankang/Dropbox/research_papers/PHD Writing/PHD论文/thesis/polythesis.cls",
-		"/Users/zhengjiankang/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
-		"/Users/zhengjiankang/Dropbox/research_papers/PHD Writing/PHD论文/thesis/MultiTaskTrack/MultiTaskTracker.tex",
-		"/Users/zhengjiankang/Dropbox/research_papers/PHD Writing/PHD论文/thesis/4.MultiTaskTrack/MultiTaskTracker.tex",
-		"/Users/zhengjiankang/Dropbox/research_papers/PHD Writing/PHD论文/thesis/2.HoughTrack/HoughTracker.tex",
-		"/Users/zhengjiankang/Dropbox/research_papers/PHD Writing/PHD论文/thesis/1.Introduction/Introduction.tex",
-		"/Users/zhengjiankang/Dropbox/research_papers/PHD Writing/PHD论文/thesis/3.MultiScaleTrack/MultiScaleTracker.tex",
-		"/Users/zhengjiankang/Dropbox/research_papers/PHD Writing/PHD论文/thesis/3.MultiScaleTrack/Twitter2.tex",
-		"/Users/zhengjiankang/Dropbox/research_papers/PHD Writing/PHD论文/thesis/Main.bbl",
-		"/Users/zhengjiankang/Dropbox/research_papers/PHD Writing/PHD论文/thesis/refs.bib",
-		"/Users/zhengjiankang/Dropbox/research_papers/PHD Writing/PHD论文/thesis/2.HoughTrack/HoughTrack.tex",
-		"/Users/zhengjiankang/Dropbox/research_papers/PHD Writing/PHD论文/thesis/2.HoughTrack/Twitter.tex",
-		"/Users/zhengjiankang/Dropbox/research_papers/phd_writing/2015 Thesis/thesis/0.Prechapter/committee.tex",
-		"/Users/zhengjiankang/Dropbox/research_papers/phd_writing/2015 Thesis/thesis/0.Prechapter/acknowledge.tex",
-		"/Users/zhengjiankang/Dropbox/research_papers/phd_writing/2015 Thesis/thesis/0.Prechapter/abstract.tex",
-		"/Users/zhengjiankang/Dropbox/research_papers/phd_writing/2015 Thesis/thesis/0.Prechapter/dedication.tex",
-		"/Users/zhengjiankang/Dropbox/research_papers/phd_writing/2015 Thesis/thesis/0.Prechapter/vita.tex",
-		"/Users/zhengjiankang/Dropbox/research_papers/phd_writing/2015 Thesis/thesis/0.Prechapter/micropage.tex",
-		"/Users/zhengjiankang/Dropbox/research_papers/phd_writing/2015 Thesis/thesis/0.Prechapter/title.tex",
-		"/Users/zhengjiankang/Dropbox/research_papers/phd_writing/2015 Thesis/thesis/0.Prechapter/titleCover.tex",
-		"/Users/zhengjiankang/Dropbox/research_papers/phd_writing/2015 Thesis/thesis/WeChat/WeChat.tex",
-		"/Users/zhengjiankang/Dropbox/research_papers/phd_writing/2015 Thesis/thesis/research",
-		"/Users/zhengjiankang/Dropbox/research_papers/phd_writing/2015 Thesis/thesis/untitled.sublime-project",
-		"/Users/zhengjiankang/Dropbox/research_papers/phd_writing/2015 Thesis/thesis/Main.tex",
-		"/Users/zhengjiankang/Dropbox/research_papers/phd_writing/2015 Thesis/thesis/Prechapter/committee.tex",
-		"/Users/zhengjiankang/Dropbox/research_papers/phd_writing/2015 Thesis/thesis/thesisPhD",
-		"/Users/zhengjiankang/Dropbox/research_papers/phd_writing/2016 tip/main.aux",
-		"/Users/zhengjiankang/Dropbox/research_papers/phd_writing/2016 tip/main.tex",
-		"/Users/zhengjiankang/Dropbox/research_papers/phd_writing/2016 tip/refs.bib",
-		"/Users/zhengjiankang/Dropbox/research_papers/phd_writing/2016 tip/main.bbl",
-		"/Users/zhengjiankang/Dropbox/research_papers/phd_writing/2014 icip/icip/main-06-08-2014-kang-final-version-1.tex",
-		"/Users/zhengjiankang/Dropbox/research_papers/phd_writing/2015 tip/IEEEtran.bst",
-		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Search & Sorting/-_Search_K-th Largest Element Large-n-and-Small-k.cpp",
-		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Search & Sorting/Search_K-th Largest Element.cpp",
-		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Search & Sorting/-_Sort_Union Of Intervals.cpp",
-		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-LinkedList/Add Two Number.cpp",
-		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Graph/N-Queens II.cpp"
+		"/C/Users/kang/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings"
 	],
 	"find":
 	{
@@ -565,6 +565,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"visited",
 			"{Tree}",
 			"{[a-zA-Z]*}",
 			"{*}",
@@ -736,29 +737,26 @@
 			[
 				{
 					"buffer": 0,
-					"file": "leetcode/538. Convert BST to Greater Tree.cpp",
+					"file": "README.md",
 					"settings":
 					{
-						"buffer_size": 1266,
+						"buffer_size": 6089,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								212,
-								212
+								6088,
+								6088
 							]
 						],
 						"settings":
 						{
-							"origin_encoding": "ASCII",
-							"syntax": "Packages/C++/C++.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 192.0,
+						"translation.y": 507.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -812,8 +810,168 @@
 		"selected_items":
 		[
 			[
+				"625",
+				"leetcode/625. Minimum Factorization.cpp"
+			],
+			[
+				"545",
+				"leetcode/545. Boundary of Binary Tree.cpp"
+			],
+			[
+				"524",
+				"leetcode/524. Longest Word in Dictionary through Deleting.cpp"
+			],
+			[
+				"573",
+				"leetcode/573. Squirrel Simulation.cpp"
+			],
+			[
+				"604",
+				"leetcode/604. Design Compressed String Iterator.cpp"
+			],
+			[
+				"556",
+				"leetcode/556. Next Greater Element III.cpp"
+			],
+			[
+				"503",
+				"leetcode/503. Next Greater Element II.cpp"
+			],
+			[
+				"496",
+				"leetcode/496. Next Greater Element I.cpp"
+			],
+			[
+				"536",
+				"leetcode/536. Construct Binary Tree from String.cpp"
+			],
+			[
+				"551",
+				"leetcode/551. Student Attendance Record I.cpp"
+			],
+			[
+				"562",
+				"leetcode/562. Longest Line of Consecutive One in Matrix.cpp"
+			],
+			[
+				"623",
+				"leetcode/623. Add One Row to Tree.cpp"
+			],
+			[
+				"566",
+				"leetcode/566. Reshape the Matrix.cpp"
+			],
+			[
+				"515",
+				"leetcode/515. Find Largest Value in Each Tree Row.cpp"
+			],
+			[
+				"490",
+				"leetcode/490. The Maze.cpp"
+			],
+			[
+				"494",
+				"leetcode/494. Target Sum.cpp"
+			],
+			[
+				"402",
+				"leetcode/402. Remove K Digits.cpp"
+			],
+			[
+				"506",
+				"leetcode/506. Relative Ranks.cpp"
+			],
+			[
+				"508",
+				"leetcode/508. Most Frequent Subtree Sum.cpp"
+			],
+			[
+				"501",
+				"leetcode/501. Find Mode in Binary Search Tree.cpp"
+			],
+			[
+				"500",
+				"leetcode/500. Keyboard Row.cpp"
+			],
+			[
+				"516",
+				"leetcode/516. Longest Palindromic Subsequence.cpp"
+			],
+			[
+				"520",
+				"leetcode/520. Detect Capital.cpp"
+			],
+			[
+				"525",
+				"leetcode/525. Contiguous Array.cpp"
+			],
+			[
+				"526",
+				"leetcode/526. Beautiful Arrangement.cpp"
+			],
+			[
 				"538",
-				"538. Convert BST to Greater Tree.cpp"
+				"leetcode/538. Convert BST to Greater Tree.cpp"
+			],
+			[
+				"231",
+				"leetcode/231. Power of Two.cpp"
+			],
+			[
+				"475",
+				"leetcode/475. Heaters.cpp"
+			],
+			[
+				"486",
+				"leetcode/486. Predict the Winner.cpp"
+			],
+			[
+				"485",
+				"leetcode/485. Max Consecutive Ones.cpp"
+			],
+			[
+				"261",
+				"leetcode/261. Graph Valid Tree.cpp"
+			],
+			[
+				"606",
+				"leetcode/606. Construct String from Binary Tree.cpp"
+			],
+			[
+				"617",
+				"leetcode/617. Merge Two Binary Trees.cpp"
+			],
+			[
+				"522",
+				"leetcode/522. Longest Uncommon Subsequence II.cpp"
+			],
+			[
+				"521",
+				"leetcode/521. Longest Uncommon Subsequence I.cpp"
+			],
+			[
+				"583",
+				"leetcode/583. Delete Operation for Two Strings.cpp"
+			],
+			[
+				"560",
+				"leetcode/560. Subarray Sum Equals K.cpp"
+			],
+			[
+				"549",
+				"leetcode/549. Binary Tree Longest Consecutive Sequence II.cpp"
+			],
+			[
+				"530",
+				"leetcode/530. Minimum Absolute Difference in BST.cpp"
+			],
+			[
+				"544",
+				"leetcode/544. Output Contest Matches.cpp"
+			],
+			[
+				"543",
+				"leetcode/543. Diameter of Binary Tree.cpp"
 			],
 			[
 				"num",
@@ -1162,166 +1320,6 @@
 			[
 				"ana",
 				"algorithm-leetcode/complete/048_Anagrams*.cpp"
-			],
-			[
-				"trian",
-				"algorithm-leetcode/complete/120_Triangle*.cpp"
-			],
-			[
-				"sym",
-				"algorithm-leetcode/complete/101_SymmetricTree*.cpp"
-			],
-			[
-				"remo",
-				"algorithm-leetcode/complete/081_RemoveDuplicatesfromSortedArrayII*.cpp"
-			],
-			[
-				"single",
-				"algorithm-leetcode/complete/137_SingleNumberII*.cpp"
-			],
-			[
-				"remover",
-				"algorithm-leetcode/complete/081_RemoveDuplicatesfromSortedArrayII*.cpp"
-			],
-			[
-				"sear",
-				"algorithm-leetcode/complete/034_SearchInsertPosition*.cpp"
-			],
-			[
-				"g",
-				"algorithm-leetcode/complete/021_GenerateParentheses*.cpp"
-			],
-			[
-				"va",
-				"algorithm-leetcode/complete/020_ValidParentheses*.cpp"
-			],
-			[
-				"uni",
-				"algorithm-leetcode/complete/061_UniquePaths*.cpp"
-			],
-			[
-				"rem",
-				"algorithm-leetcode/complete/019_RemoveNthNodeFromEndofList*.cpp"
-			],
-			[
-				"imp",
-				"algorithm-leetcode/complete/027_ImplementstrStr()**.cpp"
-			],
-			[
-				"n",
-				"algorithm-leetcode/051_N-QueensII.cpp"
-			],
-			[
-				"copy",
-				"algorithm-leetcode/138_CopyListwithRandomPointer.cpp"
-			],
-			[
-				"wil",
-				"algorithm-leetcode/043_WildcardMatching.cpp"
-			],
-			[
-				"res",
-				"algorithm-leetcode/093_RestoreIPAddresses.cpp"
-			],
-			[
-				"reg",
-				"algorithm-leetcode/010_RegularExpressionMatching.cpp"
-			],
-			[
-				"letter",
-				"algorithm-leetcode/018_LetterCombinationsofaPhoneNumber.cpp"
-			],
-			[
-				"lon",
-				"algorithm-leetcode/031_LongestValidParentheses.cpp"
-			],
-			[
-				"gas",
-				"algorithm-leetcode/134_GasStation.cpp"
-			],
-			[
-				"palindrome",
-				"algorithm-leetcode/131_PalindromePartitioning.cpp"
-			],
-			[
-				"surr",
-				"algorithm-leetcode/130_SurroundedRegions.cpp"
-			],
-			[
-				"de",
-				"algorithm-leetcode/090_DecodeWays.cpp"
-			],
-			[
-				"maxr",
-				"algorithm-leetcode/085_MaximalRectangle.cpp"
-			],
-			[
-				"text",
-				"algorithm-leetcode/068_TextJustification.cpp"
-			],
-			[
-				"mult",
-				"algorithm-leetcode/042_MultiplyStrings.cpp"
-			],
-			[
-				"sudoku",
-				"algorithm-leetcode/036_SudokuSolver.cpp"
-			],
-			[
-				"substring",
-				"algorithm-leetcode/029_SubstringwithConcatenationofAllWords.cpp"
-			],
-			[
-				"strs",
-				"algorithm-leetcode/027_ImplementstrStr().cpp"
-			],
-			[
-				"regu",
-				"algorithm-leetcode/010_RegularExpressionMatching.cpp"
-			],
-			[
-				"median",
-				"algorithm-leetcode/002_Median2SortedArray.cpp"
-			],
-			[
-				"distin",
-				"algorithm-leetcode/115_DistinctSubsequences.cpp"
-			],
-			[
-				"popu",
-				"algorithm-leetcode/117_PopulatingNextRightPointersinEachNodeII.cpp"
-			],
-			[
-				"sim",
-				"algorithm-leetcode/071_SimplifyPath.cpp"
-			],
-			[
-				"zi",
-				"algorithm-leetcode/006_ZigZagConversion.cpp"
-			],
-			[
-				"cand",
-				"algorithm-leetcode/135_Candy.cpp"
-			],
-			[
-				"cons",
-				"algorithm-leetcode/106_ConstructBinaryTreefromInorderandPostorderTraversal.cpp"
-			],
-			[
-				"const",
-				"algorithm-leetcode/105_ConstructBinaryTreefromPreorderandInorderTraversal.cpp"
-			],
-			[
-				"rotast",
-				"algorithm-leetcode/060_RotateList.cpp"
-			],
-			[
-				"insert",
-				"algorithm-leetcode/056_InsertInterval.cpp"
-			],
-			[
-				"spiral",
-				"algorithm-leetcode/058_SpiralMatrixII.cpp"
 			]
 		],
 		"width": 0.0
@@ -1342,6 +1340,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": false,
-	"side_bar_width": 224.0,
+	"side_bar_width": 119.0,
 	"status_bar_visible": false
 }
