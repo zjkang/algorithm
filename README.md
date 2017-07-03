@@ -48,5 +48,6 @@
 - 606 [Construct String from Binary Tree](https://github.com/zjkang/algorithm/blob/master/leetcode/606.%20Construct%20String%20from%20Binary%20Tree.cpp)
 - 617 [Merge Two Binary Trees](https://github.com/zjkang/algorithm/blob/master/leetcode/617.%20Merge%20Two%20Binary%20Trees.cpp)
 - 623 [Add One Row to Tree](https://github.com/zjkang/algorithm/blob/master/leetcode/623.%20Add%20One%20Row%20to%20Tree.cpp)
+- 624 [Maximum Distance in Arrays](https://github.com/zjkang/algorithm/blob/master/leetcode/624.%20Maximum%20Distance%20in%20Arrays.cpp)
 - 625 [Minimum Factorization](https://github.com/zjkang/algorithm/blob/master/leetcode/625.%20Minimum%20Factorization.cpp)
 - 630 [Course Schedule III](https://github.com/zjkang/algorithm/blob/master/leetcode/630.%20Course%20Schedule%20III.cpp)
