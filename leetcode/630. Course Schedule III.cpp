@@ -4,7 +4,7 @@
  Problem:    Course Schedule III
  Source:     https://leetcode.com/problems/course-schedule-iii/#/description
  Difficulty: Medium
- Company:    WAp
+ Company:    WAP
  Tags:       {Greedy}
 
  Notes:
