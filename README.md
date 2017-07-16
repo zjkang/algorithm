@@ -3,6 +3,7 @@
 用来记录业余时间所做的算法题目，同时保持对于数据结构的熟悉。
 
 ## ** Leetcode 题目列表
+- 053 [Maximum Subarray](https://github.com/zjkang/algorithm/blob/master/leetcode/053.%20Maximum%20Subarray.cpp)
 - 231 [Power of Two](https://github.com/zjkang/algorithm/blob/master/leetcode/231.%20Power%20of%20Two.cpp)
 - 261 [Graph Valid Tree](https://github.com/zjkang/algorithm/blob/master/leetcode/261.%20Graph%20Valid%20Tree.cpp)
 - 300 [Longest Increasing Subsequence](https://github.com/zjkang/algorithm/blob/master/leetcode/300.%20Longest%20Increasing%20Subsequence.cpp)
