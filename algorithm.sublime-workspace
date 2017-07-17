@@ -343,7 +343,7 @@
 			"file": "README.md",
 			"settings":
 			{
-				"buffer_size": 6089,
+				"buffer_size": 7111,
 				"line_ending": "Unix"
 			}
 		}
@@ -420,6 +420,14 @@
 	},
 	"file_history":
 	[
+		"/Users/zhengjiankang/git/algorithm/leetcode/554. Brick Wall.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/637. Average of Levels in Binary Tree.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/638. Shopping Offers.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/616. Add Bold Tag in String.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/633. Sum of Square Numbers.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/628. Maximum Product of Three Numbers.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/624. Maximum Distance in Arrays.cpp",
+		"/Users/zhengjiankang/git/algorithm/leetcode/630. Course Schedule III.cpp",
 		"/Users/zhengjiankang/git/algorithm/leetcode/625. Minimum Factorization.cpp",
 		"/Users/zhengjiankang/git/algorithm/leetcode/545. Boundary of Binary Tree.cpp",
 		"/Users/zhengjiankang/git/algorithm/leetcode/524. Longest Word in Dictionary through Deleting.cpp",
@@ -539,15 +547,7 @@
 		"/Users/zhengjiankang/Dropbox/research_papers/PHD Writing/PHD论文/thesis/Conclusion/Conclusion.tex",
 		"/Users/zhengjiankang/Dropbox/research_papers/PHD Writing/PHD论文/thesis/Prechapter/acknowledge.tex",
 		"/Users/zhengjiankang/Dropbox/research_papers/PHD Writing/PHD论文/thesis/Prechapter/dedication.tex",
-		"/Users/zhengjiankang/Dropbox/research_papers/PHD Writing/PHD论文/thesis/Prechapter/vita.tex",
-		"/Users/zhengjiankang/Dropbox/research_papers/PHD Writing/PHD论文/thesis/Prechapter/title.tex",
-		"/Users/zhengjiankang/Dropbox/research_papers/PHD Writing/PHD论文/thesis/Prechapter/titleCover.tex",
-		"/Users/zhengjiankang/Dropbox/research_papers/PHD Writing/PHD论文/thesis/Prechapter/micropage.tex",
-		"/C/Users/kang/AppData/Roaming/Sublime Text 2/Packages/User/LaTeXTools.sublime-settings",
-		"/C/Users/kang/AppData/Roaming/Sublime Text 2/Packages/LaTeXTools/LaTeX.sublime-build",
-		"/C/Users/kang/AppData/Roaming/Sublime Text 2/Packages/LaTeXTools/LaTeX.sublime-build.OLD",
-		"/C/Users/kang/AppData/Roaming/Sublime Text 2/Packages/LaTeXTools/LaTeX.sublime-commands",
-		"/C/Users/kang/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings"
+		"/Users/zhengjiankang/Dropbox/research_papers/PHD Writing/PHD论文/thesis/Prechapter/vita.tex"
 	],
 	"find":
 	{
@@ -565,6 +565,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			".\n",
 			"visited",
 			"{Tree}",
 			"{[a-zA-Z]*}",
@@ -740,15 +741,15 @@
 					"file": "README.md",
 					"settings":
 					{
-						"buffer_size": 6089,
+						"buffer_size": 7111,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								6088,
-								6088
+								438,
+								438
 							]
 						],
 						"settings":
@@ -756,7 +757,7 @@
 							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 507.0,
+						"translation.y": 709.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -809,6 +810,38 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"554",
+				"leetcode/554. Brick Wall.cpp"
+			],
+			[
+				"637",
+				"leetcode/637. Average of Levels in Binary Tree.cpp"
+			],
+			[
+				"638",
+				"leetcode/638. Shopping Offers.cpp"
+			],
+			[
+				"616",
+				"leetcode/616. Add Bold Tag in String.cpp"
+			],
+			[
+				"633",
+				"leetcode/633. Sum of Square Numbers.cpp"
+			],
+			[
+				"628",
+				"leetcode/628. Maximum Product of Three Numbers.cpp"
+			],
+			[
+				"624",
+				"leetcode/624. Maximum Distance in Arrays.cpp"
+			],
+			[
+				"630",
+				"leetcode/630. Course Schedule III.cpp"
+			],
 			[
 				"625",
 				"leetcode/625. Minimum Factorization.cpp"
@@ -1288,38 +1321,6 @@
 			[
 				"combin",
 				"algorithm-leetcode/complete/038_CombinationSum*.cpp"
-			],
-			[
-				"dis",
-				"algorithm-leetcode/complete/115_DistinctSubsequences*.cpp"
-			],
-			[
-				"root",
-				"algorithm-leetcode/complete/129_SumRoottoLeafNumbers*.cpp"
-			],
-			[
-				"jump",
-				"algorithm-leetcode/complete/044_JumpGameII*.cpp"
-			],
-			[
-				"pow",
-				"algorithm-leetcode/complete/049_Pow(x,n)*.cpp"
-			],
-			[
-				"coun",
-				"algorithm-leetcode/complete/037_CountandSay*.cpp"
-			],
-			[
-				"tri",
-				"algorithm-leetcode/complete/120_Triangle*.cpp"
-			],
-			[
-				"pa",
-				"algorithm-leetcode/complete/119_Pascal'sTriangleII*.cpp"
-			],
-			[
-				"ana",
-				"algorithm-leetcode/complete/048_Anagrams*.cpp"
 			]
 		],
 		"width": 0.0
