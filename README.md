@@ -4,6 +4,7 @@
 
 ## ** Leetcode 题目列表
 - 003 [Longest Substring Without Repeating Characters](https://github.com/zjkang/algorithm/blob/master/leetcode/003.%20Longest%20Substring%20Without%20Repeating%20Characters.cpp)
+- 030 [Substring with Concatenation of All Words](https://github.com/zjkang/algorithm/blob/master/leetcode/030.%20Substring%20with%20Concatenation%20of%20All%20Words.cpp)
 - 053 [Maximum Subarray](https://github.com/zjkang/algorithm/blob/master/leetcode/053.%20Maximum%20Subarray.cpp)
 - 076 [Minimum Window Substring](https://github.com/zjkang/algorithm/blob/master/leetcode/076.%20Minimum%20Window%20Substring.cpp)
 - 152 [Maximum Product Subarray](https://github.com/zjkang/algorithm/blob/master/leetcode/152.%20Maximum%20Product%20Subarray.cpp)
