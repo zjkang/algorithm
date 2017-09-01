@@ -1,6 +1,6 @@
 # ** LeetCode 题目更新 **
 
-用来记录业余时间所做的算法题目，同时保持对于数据结构的熟悉。
+用来记录业余时间所做的算法题目，保持对于数据结构的熟悉。
 
 ## ** Leetcode 题目列表
 - 003 [Longest Substring Without Repeating Characters](https://github.com/zjkang/algorithm/blob/master/leetcode/003.%20Longest%20Substring%20Without%20Repeating%20Characters.cpp)
@@ -12,6 +12,9 @@
 
 - 152 [Maximum Product Subarray](https://github.com/zjkang/algorithm/blob/master/leetcode/152.%20Maximum%20Product%20Subarray.cpp)
 - 159 [Longest Substring with At Most Two Distinct Characters](https://github.com/zjkang/algorithm/blob/master/leetcode/159.%20Longest%20Substring%20with%20At%20Most%20Two%20Distinct%20Characters.cpp)
+
+***
+
 - 231 [Power of Two](https://github.com/zjkang/algorithm/blob/master/leetcode/231.%20Power%20of%20Two.cpp)
 - 261 [Graph Valid Tree](https://github.com/zjkang/algorithm/blob/master/leetcode/261.%20Graph%20Valid%20Tree.cpp)
 
