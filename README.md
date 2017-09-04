@@ -4,7 +4,10 @@
 
 ## ** Leetcode 题目列表
 - 001 [Two Sum](https://github.com/zjkang/algorithm/blob/master/leetcode/001.%202Sum.cpp)
+- 002 [Add Two Numbers]
 - 003 [Longest Substring Without Repeating Characters](https://github.com/zjkang/algorithm/blob/master/leetcode/003.%20Longest%20Substring%20Without%20Repeating%20Characters.cpp)
+- 004 [Median of Two Sorted Arrays]
+- 005 [Longest Palindromic Substring]
 - 030 [Substring with Concatenation of All Words](https://github.com/zjkang/algorithm/blob/master/leetcode/030.%20Substring%20with%20Concatenation%20of%20All%20Words.cpp)
 - 053 [Maximum Subarray](https://github.com/zjkang/algorithm/blob/master/leetcode/053.%20Maximum%20Subarray.cpp)
 - 076 [Minimum Window Substring](https://github.com/zjkang/algorithm/blob/master/leetcode/076.%20Minimum%20Window%20Substring.cpp)
