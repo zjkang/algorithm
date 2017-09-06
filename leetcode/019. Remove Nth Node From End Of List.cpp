@@ -2,7 +2,7 @@
  Author:     Zhengjian Kang
  Email:      zhengjian.kang@nyu.edu
  Problem:    Remove Nth Node From End of List
- Source:     https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+ Source:     https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/
  Tags:       {Linked List}, {Two Pointers}
 
  Notes:
@@ -29,22 +29,22 @@
  */
 class Solution {
 public:
-	ListNode *removeNthFromEnd(ListNode *head, int n) {
-		// corner case: 头结点,使用dummy node
-		ListNode dummy(0);
-		ListNode* back = &dummy;
-		ListNode* front = &dummy;        
-		dummy.next = head;
-		while (n--) {
-			front = front->next;
-		}
-		while (front->next) {
-			front = front->next;
-			back = back->next;
-		}
-		ListNode *node = back->next;
-		back->next = node->next;
-		delete node;
-		return dummy.next;
-	}
+    ListNode *removeNthFromEnd(ListNode *head, int n) {
+        // corner case: 头结点,使用dummy node
+        ListNode dummy(0);
+        ListNode* back = &dummy;
+        ListNode* front = &dummy;        
+        dummy.next = head;
+        while (n--) {
+            front = front->next;
+        }
+        while (front->next) {
+            front = front->next;
+            back = back->next;
+        }
+        ListNode *node = back->next;
+        back->next = node->next;
+        delete node;
+        return dummy.next;
+    }
 };
