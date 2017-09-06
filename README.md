@@ -3,141 +3,626 @@
 用来记录业余时间所做的算法题目，保持对于数据结构的熟悉。
 
 ## ** Leetcode 题目列表
-[comment]: <> (Problem 001 - 099)
 - 001 [Two Sum](https://github.com/zjkang/algorithm/blob/master/leetcode/001.%202Sum.cpp)
-- 002 [Add Two Numbers]
+- 002 Add Two Numbers
 - 003 [Longest Substring Without Repeating Characters](https://github.com/zjkang/algorithm/blob/master/leetcode/003.%20Longest%20Substring%20Without%20Repeating%20Characters.cpp)
-- 004 [Median of Two Sorted Arrays]
-- 005 [Longest Palindromic Substring]
-- 006 [ZigZag Conversion]
-- 007 [Reverse Integer]
-- 008 [String to Integer (atoi)]
-- 009 [Palindrome Number]
-- 010 [Regular Expression Matching]
-- 011 [Container With Most Water]
-- 012 []
-- 013 []
-- 014 []
-- 015 []
-- 016 []
-- 017 []
-- 018 []
-- 019 []
-- 020 []
-- 021 []
-- 022 []
-- 023 []
-- 024 []
-- 025 []
-- 026 []
-- 027 []
-- 028 []
-- 029 []
+- 004 Median of Two Sorted Arrays
+- 005 Longest Palindromic Substring
+- 006 ZigZag Conversion
+- 007 Reverse Integer
+- 008 String to Integer (atoi)
+- 009 Palindrome Number
+- 010 Regular Expression Matching
+- 011 Container With Most Water
+- 012 Integer to Roman
+- 013 Roman to Integer
+- 014 Longest Common Prefix
+- 015 3Sum
+- 016 3Sum Closest
+- 017 Letter Combinations of a Phone Number
+- 018 4Sum
+- 019 Remove Nth Node From End of List
+- 020 Valid Parentheses
+- 021 Merge Two Sorted Lists
+- 022 Generate Parentheses
+- 023 Merge k Sorted Lists
+- 024 Swap Nodes in Pairs
+- 025 Reverse Nodes in k-Group
+- 026 Remove Duplicates from Sorted Array
+- 027 Remove Element
+- 028 Implement strStr()
+- 029 Divide Two Integers
 - 030 [Substring with Concatenation of All Words](https://github.com/zjkang/algorithm/blob/master/leetcode/030.%20Substring%20with%20Concatenation%20of%20All%20Words.cpp)
-- 031 []
-- 032 []
-- 033 []
-- 034 []
-- 035 []
-- 036 []
-- 037 []
-- 038 []
-- 039 []
-- 040 []
-- 041 []
-- 042 []
-- 043 []
-- 044 []
-- 045 []
-- 046 []
-- 047 []
-- 048 []
-- 049 []
-- 050 []
-- 051 []
-- 052 []
+- 031 Next Permutation
+- 032 Longest Valid Parentheses
+- 033 Search in Rotated Sorted Array
+- 034 Search for a Range
+- 035 Search Insert Position
+- 036 Valid Sudoku
+- 037 Sudoku Solver
+- 038 Count and Say
+- 039 Combination Sum
+- 040 Combination Sum II
+- 041 First Missing Positive
+- 042 Trapping Rain Water
+- 043 Multiply Strings
+- 044 Wildcard Matching
+- 045 Jump Game II
+- 046 Permutations
+- 047 Permutations II
+- 048 Rotate Image
+- 049 Group Anagrams
+- 050 Pow(x, n)
+- 051 N-Queens
+- 052 N-Queens II
 - 053 [Maximum Subarray](https://github.com/zjkang/algorithm/blob/master/leetcode/053.%20Maximum%20Subarray.cpp)
-- 054 []
-- 055 []
-- 056 []
-- 057 []
-- 058 []
-- 059 []
-- 060 []
+- 054 Spiral Matrix
+- 055 Jump Game
+- 056 Merge Intervals
+- 057 Insert Interval
+- 058 Length of Last Word
+- 059 Spiral Matrix II
+- 060 Permutation Sequence
+- 061 Rotate List
+- 062 Unique Paths
+- 063 Unique Paths II
+- 064 Minimum Path Sum
+- 065 Valid Number
+- 066 Plus One
+- 067 Add Binary
+- 068 Text Justification
+- 069 Sqrt(x)
+- 070 Climbing Stairs
+- 071 Simplify Path
+- 072 Edit Distance
+- 073 Set Matrix Zeroes
+- 074 Search a 2D Matrix
+- 075 Sort Colors
 - 076 [Minimum Window Substring](https://github.com/zjkang/algorithm/blob/master/leetcode/076.%20Minimum%20Window%20Substring.cpp)
+- 077 Combinations
+- 078 Subsets
+- 079 Word Search
+- 080 Remove Duplicates from Sorted Array II
+- 081 Search in Rotated Sorted Array II
+- 082 Remove Duplicates from Sorted List II
+- 083 Remove Duplicates from Sorted List
+- 084 Largest Rectangle in Histogram
+- 085 Maximal Rectangle
+- 086 Partition List
+- 087 Scramble String
+- 088 Merge Sorted Array
+- 089 Gray Code
+- 090 Subsets II
+- 091 Decode Ways
+- 092 Reverse Linked List II
+- 093 Restore IP Addresses
+- 094 Binary Tree Inorder Traversal
+- 095 Unique Binary Search Trees II
+- 096 Unique Binary Search Trees
+- 097 Interleaving String
+- 098 Validate Binary Search Tree
+- 099 Recover Binary Search Tree
 
 ***
 
+- 100 Same Tree
+- 101 Symmetric Tree
+- 102 Binary Tree Level Order Traversal
+- 103 Binary Tree Zigzag Level Order Traversal
+- 104 Maximum Depth of Binary Tree
+- 105 Construct Binary Tree from Preorder and Inorder Traversal
+- 106 Construct Binary Tree from Inorder and Postorder Traversal
+- 107 Binary Tree Level Order Traversal II
+- 108 Convert Sorted Array to Binary Search Tree
+- 109 Convert Sorted List to Binary Search Tree
+- 110 Balanced Binary Tree 
+- 111 Minimum Depth of Binary Tree
+- 112 Path Sum
+- 113 Path Sum II
+- 114 Flatten Binary Tree to Linked List
+- 115 Distinct Subsequences
+- 116 Populating Next Right Pointers in Each Node
+- 117 Populating Next Right Pointers in Each Node II
+- 118 Pascal's Triangle
+- 119 Pascal's Triangle II
+- 120 Triangle
+- 121 Best Time to Buy and Sell Stock
+- 122 Best Time to Buy and Sell Stock II
+- 123 Best Time to Buy and Sell Stock III
+- 124 Binary Tree Maximum Path Sum
+- 125 Valid Palindrome
+- 126 Word Ladder II
+- 127 Word Ladder
+- 128 Longest Consecutive Sequence
+- 129 Sum Root to Leaf Numbers
+- 130 Surrounded Regions
+- 131 Palindrome Partitioning
+- 132 Palindrome Partitioning II
+- 133 Clone Graph
+- 134 Gas Station
+- 135 Candy
+- 136 Single Number
+- 137 Single Number II
+- 138 Copy List with Random Pointer
+- 139 Word Break
+- 140 Word Break II
+- 141 Linked List Cycle
+- 142 Linked List Cycle II
+- 143 Reorder List
+- 144 Binary Tree Preorder Traversal
+- 145 Binary Tree Postorder Traversal
+- 146 LRU Cache
+- 147 Insertion Sort List
+- 148 Sort List
+- 149 Max Points on a Line
+- 150 Evaluate Reverse Polish Notation
+- 151 Reverse Words in a String
 - 152 [Maximum Product Subarray](https://github.com/zjkang/algorithm/blob/master/leetcode/152.%20Maximum%20Product%20Subarray.cpp)
+- 153 Find Minimum in Rotated Sorted Array
+- 154 Find Minimum in Rotated Sorted Array II
+- 155 Min Stack
+- 156 Binary Tree Upside Down
+- 157 Read N Characters Given Read4
+- 158 Read N Characters Given Read4 II - Call multiple times
 - 159 [Longest Substring with At Most Two Distinct Characters](https://github.com/zjkang/algorithm/blob/master/leetcode/159.%20Longest%20Substring%20with%20At%20Most%20Two%20Distinct%20Characters.cpp)
+- 160 Intersection of Two Linked Lists
+- 161 One Edit Distance
+- 162 Find Peak Element
+- 163 Missing Ranges
+- 164 Maximum Gap
+- 165 Compare Version Numbers
+- 166 Fraction to Recurring Decimal
+- 167 Two Sum II - Input array is sorted
+- 168 Excel Sheet Column Title
+- 169 Majority Element
+- 170 Two Sum III - Data structure design
+- 171 Excel Sheet Column Number 
+- 172 Factorial Trailing Zeroes
+- 173 Binary Search Tree Iterator
+- 174 Dungeon Game
+- 179 Largest Number
+- 186 Reverse Words in a String II
+- 187 Repeated DNA Sequences 
+- 188 Best Time to Buy and Sell Stock IV
+- 189 Rotate Array
+- 190 Reverse Bits
+- 191 Number of 1 Bits
+- 198 House Robber
+- 199 Binary Tree Right Side View
 
 ***
 
+- 200 Number of Islands
+- 201 Bitwise AND of Numbers Range 
+- 202 Happy Number
+- 203 Remove Linked List Elements
+- 204 Count Primes
+- 205 Isomorphic Strings
+- 206 Reverse Linked List
+- 207 Course Schedule
+- 208 Implement Trie (Prefix Tree)
+- 209 Minimum Size Subarray Sum
+- 210 Course Schedule II
+- 211 Add and Search Word - Data structure design 
+- 212 Word Search II
+- 213 House Robber II
+- 214 Shortest Palindrome
+- 215 Kth Largest Element in an Array
+- 216 Combination Sum III
+- 217 Contains Duplicate
+- 218 The Skyline Problem
+- 219 Contains Duplicate II
+- 220 Contains Duplicate III
+- 221 Maximal Square
+- 222 Count Complete Tree Nodes
+- 223 Rectangle Area
+- 224 Basic Calculator
+- 225 Implement Stack using Queues
+- 226 Invert Binary Tree
+- 227 Basic Calculator II
+- 228 Summary Ranges
+- 229 Majority Element II
+- 230 Kth Smallest Element in a BST 
 - 231 [Power of Two](https://github.com/zjkang/algorithm/blob/master/leetcode/231.%20Power%20of%20Two.cpp)
+- 232 Implement Queue using Stacks
+- 233 Number of Digit One
+- 234 Palindrome Linked List
+- 235 Lowest Common Ancestor of a Binary Search Tree
+- 236 Lowest Common Ancestor of a Binary Tree
+- 237 Delete Node in a Linked List
+- 238 Product of Array Except Self
+- 239 Sliding Window Maximum
+- 240 Search a 2D Matrix II
+- 241 Different Ways to Add Parentheses
+- 242 Valid Anagram
+- 243 Shortest Word Distance
+- 244 Shortest Word Distance II
+- 245 Shortest Word Distance III
+- 246 Strobogrammatic Number
+- 247 Strobogrammatic Number II
+- 248 Strobogrammatic Number III
+- 249 Group Shifted Strings
+- 250 Count Univalue Subtrees
+- 251 Flatten 2D Vector
+- 252 Meeting Rooms
+- 253 Meeting Rooms II
+- 254 Factor Combinations
+- 255 Verify Preorder Sequence in Binary Search Tree
+- 256 Paint House
+- 257 Binary Tree Paths
+- 258 Add Digits
+- 259 3Sum Smaller
+- 260 Single Number III
 - 261 [Graph Valid Tree](https://github.com/zjkang/algorithm/blob/master/leetcode/261.%20Graph%20Valid%20Tree.cpp)
+- 263 Ugly Number
+- 264 Ugly Number II
+- 265 Paint House II
+- 266 Palindrome Permutation
+- 267 Palindrome Permutation II
+- 268 Missing Number
+- 269 Alien Dictionary
+- 270 Closest Binary Search Tree Value
+- 271 Encode and Decode Strings
+- 272 Closest Binary Search Tree Value II
+- 273 Integer to English Words
+- 274 H-Index 
+- 275 H-Index II 
+- 276 Paint Fence
+- 277 Find the Celebrity
+- 278 First Bad Version
+- 279 Perfect Squares
+- 280 Wiggle Sort
+- 281 Zigzag Iterator
+- 282 Expression Add Operators
+- 283 Move Zeroes
+- 284 Peeking Iterator
+- 285 Inorder Successor in BST 
+- 286 Walls and Gates
+- 287 Find the Duplicate Number
+- 288 Unique Word Abbreviation
+- 289 Game of Life
+- 290 Word Pattern 
+- 291 Word Pattern II
+- 292 Nim Game
+- 293 Flip Game
+- 294 Flip Game II
+- 295 Find Median from Data Stream
+- 296 Best Meeting Point
+- 297 Serialize and Deserialize Binary Tree 
+- 298 Binary Tree Longest Consecutive Sequence
+- 299 Bulls and Cows
 
 ***
 
 - 300 [Longest Increasing Subsequence](https://github.com/zjkang/algorithm/blob/master/leetcode/300.%20Longest%20Increasing%20Subsequence.cpp)
-- 325 [Maximum Size Subarray Sum Equals k](https://github.com/zjkang/algorithm/blob/master/leetcode/325.%20Maximum%20Size%20Subarray%20Sum%20Equals%20k.cpp)
+- 301 Remove Invalid Parentheses 
+- 302 Smallest Rectangle Enclosing Black Pixels
+- 303 Range Sum Query - Immutable
+- 304 Range Sum Query 2D - Immutable 
+- 305 Number of Islands II
+- 306 Additive Number 
+- 307 Range Sum Query - Mutable
+- 308 Range Sum Query 2D - Mutable
+- 309 Best Time to Buy and Sell Stock with Cooldown
+- 310 Minimum Height Trees
+- 311 Sparse Matrix Multiplication
+- 312 Burst Balloons
+- 313 Super Ugly Number
+- 314 Binary Tree Vertical Order Traversal
+- 315 Count of Smaller Numbers After Self 
+- 316 Remove Duplicate Letters
+- 317 Shortest Distance from All Buildings
+- 318 Maximum Product of Word Lengths
+- 319 Bulb Switcher
+- 320 Generalized Abbreviation
+- 321 Create Maximum Number
+- 322 Coin Change
+- 323 Number of Connected Components in an Undirected Graph
+- 324 Wiggle Sort II 
+- 325 [Maximum Size Subarray Sum Equals k](https://github.com/zjkang/algorithm/blob/master/leetcode/325.%20Maximum%20Size%20Subarray%20Sum%20Equals%20k.cpp) 
+- 326 Power of Three 
+- 327 Count of Range Sum
+- 328 Odd Even Linked List
+- 329 Longest Increasing Path in a Matrix
+- 330 Patching Array 
+- 331 Verify Preorder Serialization of a Binary Tree
+- 332 Reconstruct Itinerary
+- 333 Largest BST Subtree
+- 334 Increasing Triplet Subsequence
+- 335 Self Crossing
+- 336 Palindrome Pairs
+- 337 House Robber III
+- 338 Counting Bits
+- 339 Nested List Weight Sum
+- 340 Longest Substring with At Most K Distinct Characters
+- 341 Flatten Nested List Iterator
+- 342 Power of Four 
+- 343 Integer Break
+- 344 Reverse String 
+- 345 Reverse Vowels of a String
+- 346 Moving Average from Data Stream
+- 347 Top K Frequent Elements 
+- 348 Design Tic-Tac-Toe
+- 349 Intersection of Two Arrays
+- 350 Intersection of Two Arrays II
+- 351 Android Unlock Patterns
+- 352 Data Stream as Disjoint Intervals
+- 353 Design Snake Game
 - 354 [Russian Doll Envelopes](https://github.com/zjkang/algorithm/blob/master/leetcode/354.%20Russian%20Doll%20Envelopes.cpp)
+- 355 Design Twitter
+- 356 Line Reflection
+- 357 Count Numbers with Unique Digits 
+- 358 Rearrange String k Distance Apart
+- 359 Logger Rate Limiter
+- 360 Sort Transformed Array
+- 361 Bomb Enemy 
+- 362 Design Hit Counter
+- 363 Max Sum of Rectangle No Larger Than K
+- 364 Nested List Weight Sum II
+- 365 Water and Jug Problem
+- 366 Find Leaves of Binary Tree
+- 367 Valid Perfect Square 
+- 368 Largest Divisible Subset 
+- 369 Plus One Linked List
+- 370 Range Addition
+- 371 Sum of Two Integers
+- 372 Super Pow
+- 373 Find K Pairs with Smallest Sums
+- 374 Guess Number Higher or Lower 
+- 375 Guess Number Higher or Lower II
+- 376 Wiggle Subsequence
+- 377 Combination Sum IV
+- 378 Kth Smallest Element in a Sorted Matrix
+- 379 Design Phone Directory
+- 380 Insert Delete GetRandom O(1)
+- 381 Insert Delete GetRandom O(1) - Duplicates allowed
+- 382 Linked List Random Node
+- 383 Ransom Note
+- 384 Shuffle an Array 
+- 385 Mini Parser
+- 386 Lexicographical Numbers
+- 387 First Unique Character in a String
+- 388 Longest Absolute File Path
+- 389 Find the Difference
+- 390 Elimination Game
+- 391 Perfect Rectangle 
+- 392 Is Subsequence
+- 393 UTF-8 Validation
+- 394 Decode String 
+- 395 Longest Substring with At Least K Repeating Characters
+- 396 Rotate Function 
+- 397 Integer Replacement
+- 398 Random Pick Index
+- 399 Evaluate Division
 
 ***
 
+- 400 Nth Digit
+- 401 Binary Watch
 - 402 [Remove K Digits](https://github.com/zjkang/algorithm/blob/master/leetcode/402.%20Remove%20K%20Digits.cpp)
+- 403 Frog Jump
+- 404 Sum of Left Leaves
+- 405 Convert a Number to Hexadecimal
+- 406 Queue Reconstruction by Height 
+- 407 Trapping Rain Water II 
+- 408 Valid Word Abbreviation
+- 409 Longest Palindrome
+- 410 Split Array Largest Sum
+- 411 Minimum Unique Word Abbreviation
+- 412 Fizz Buzz
+- 413 Arithmetic Slices
+- 414 Third Maximum Number
+- 415 Add Strings 
+- 416 Partition Equal Subset Sum 
+- 417 Pacific Atlantic Water Flow
+- 418 Sentence Screen Fitting
+- 419 Battleships in a Board
+- 420 Strong Password Checker
+- 421 Maximum XOR of Two Numbers in an Array 
+- 422 Valid Word Square
+- 423 Reconstruct Original Digits from English 
+- 424 Longest Repeating Character Replacement
+- 425 Word Squares
+- 432 All O`one Data Structure
+- 434 Number of Segments in a String
+- 435 Non-overlapping Intervals
+- 436 Find Right Interval 
+- 437 Path Sum III
+- 438 Find All Anagrams in a String 
+- 439 Ternary Expression Parser
+- 440 K-th Smallest in Lexicographical Order 
+- 441 Arranging Coins 
+- 442 Find All Duplicates in an Array 
+- 444 Sequence Reconstruction
+- 445 Add Two Numbers II 
+- 446 Arithmetic Slices II - Subsequence
+- 447 Number of Boomerangs
+- 448 Find All Numbers Disappeared in an Array
+- 449 Serialize and Deserialize BST 
+- 450 Delete Node in a BST
+- 451 Sort Characters By Frequency
+- 452 Minimum Number of Arrows to Burst Balloons 
+- 453 Minimum Moves to Equal Array Elements
+- 454 4Sum II 
+- 455 Assign Cookies
+- 456 132 Pattern
+- 459 Repeated Substring Pattern
+- 460 LFU Cache 
+- 461 Hamming Distance 
+- 462 Minimum Moves to Equal Array Elements II
+- 463 Island Perimeter
+- 464 Can I Win
+- 465 Optimal Account Balancing
+- 466 Count The Repetitions
+- 467 Unique Substrings in Wraparound String 
+- 468 Validate IP Address
+- 469 Convex Polygon
+- 471 Encode String with Shortest Length
+- 472 Concatenated Words
+- 473 Matchsticks to Square
+- 474 Ones and Zeroes
 - 475 [Heaters](https://github.com/zjkang/algorithm/blob/master/leetcode/475.%20Heaters.cpp)
+- 476 Number Complement 
+- 477 Total Hamming Distance
+- 479 Largest Palindrome Product
+- 480 Sliding Window Median
+- 481 Magical String
+- 482 License Key Formatting
+- 483 Smallest Good Base
+- 484 Find Permutation
 - 485 [Max Consecutive Ones](https://github.com/zjkang/algorithm/blob/master/leetcode/485.%20Max%20Consecutive%20Ones.cpp)
 - 486 [Predict the Winner](https://github.com/zjkang/algorithm/blob/master/leetcode/486.%20Predict%20the%20Winner.cpp)
+- 487 Max Consecutive Ones II
+- 488 Zuma Game
 - 490 [The Maze](https://github.com/zjkang/algorithm/blob/master/leetcode/490.%20The%20Maze.cpp)
+- 491 Increasing Subsequences
+- 492 Construct the Rectangle 
+- 493 Reverse Pairs
 - 494 [Target Sum](https://github.com/zjkang/algorithm/blob/master/leetcode/494.%20Target%20Sum.cpp)
+- 495 Teemo Attacking
 - 496 [Next Greater Element I](https://github.com/zjkang/algorithm/blob/master/leetcode/496.%20Next%20Greater%20Element%20I.cpp)
+- 498 Diagonal Traverse
+- 499 The Maze III
 
 ***
 
 - 500 [Keyboard Row](https://github.com/zjkang/algorithm/blob/master/leetcode/500.%20Keyboard%20Row.cpp)
 - 501 [Find Mode in Binary Search Tree](https://github.com/zjkang/algorithm/blob/master/leetcode/501.%20Find%20Mode%20in%20Binary%20Search%20Tree.cpp)
+- 502 IPO
 - 503 [Next Greater Element II](https://github.com/zjkang/algorithm/blob/master/leetcode/503.%20Next%20Greater%20Element%20II.cpp)
+- 504 Base 7
+- 505 The Maze II
 - 506 [Relative Ranks](https://github.com/zjkang/algorithm/blob/master/leetcode/506.%20Relative%20Ranks.cpp)
+- 507 Perfect Number
 - 508 [Most Frequent Subtree Sum](https://github.com/zjkang/algorithm/blob/master/leetcode/508.%20Most%20Frequent%20Subtree%20Sum.cpp)
+- 513 Find Bottom Left Tree Value
+- 514 Freedom Trail 
 - 515 [Find Largest Value in Each Tree Row](https://github.com/zjkang/algorithm/blob/master/leetcode/515.%20Find%20Largest%20Value%20in%20Each%20Tree%20Row.cpp)
 - 516 [Longest Palindromic Subsequence](https://github.com/zjkang/algorithm/blob/master/leetcode/516.%20Longest%20Palindromic%20Subsequence.cpp)
+- 517 Super Washing Machines
 - 520 [Detect Capital](https://github.com/zjkang/algorithm/blob/master/leetcode/520.%20Detect%20Capital.cpp)
 - 521 [Longest Uncommon Subsequence I](https://github.com/zjkang/algorithm/blob/master/leetcode/521.%20Longest%20Uncommon%20Subsequence%20I.cpp)
 - 522 [Longest Uncommon Subsequence II](https://github.com/zjkang/algorithm/blob/master/leetcode/522.%20Longest%20Uncommon%20Subsequence%20II.cpp)
+- 523 Continuous Subarray Sum
 - 524 [Longest Word in Dictionary through Deleting](https://github.com/zjkang/algorithm/blob/master/leetcode/524.%20Longest%20Word%20in%20Dictionary%20through%20Deleting.cpp)
 - 525 [Contiguous Array](https://github.com/zjkang/algorithm/blob/master/leetcode/525.%20Contiguous%20Array.cpp)
 - 526 [Beautiful Arrangement](https://github.com/zjkang/algorithm/blob/master/leetcode/526.%20Beautiful%20Arrangement.cpp)
+- 527 Word Abbreviation
+- 529 Minesweeper 
 - 530 [Minimum Absolute Difference in BST](https://github.com/zjkang/algorithm/blob/master/leetcode/530.%20Minimum%20Absolute%20Difference%20in%20BST.cpp)
 - 531 [Lonely Pixel I](https://github.com/zjkang/algorithm/blob/master/leetcode/531.%20Lonely%20Pixel%20I.cpp)
+- 532 K-diff Pairs in an Array
 - 533 [Lonely Pixel II](https://github.com/zjkang/algorithm/blob/master/leetcode/533.%20Lonely%20Pixel%20II.cpp)
+- 535 Encode and Decode TinyURL 
 - 536 [Construct Binary Tree from String](https://github.com/zjkang/algorithm/blob/master/leetcode/536.%20Construct%20Binary%20Tree%20from%20String.cpp)
+- 537 Complex Number Multiplication
 - 538 [Convert BST to Greater Tree](https://github.com/zjkang/algorithm/blob/master/leetcode/538.%20Convert%20BST%20to%20Greater%20Tree.cpp)
+- 539 Minimum Time Difference
+- 540 Single Element in a Sorted Array
+- 541 Reverse String II
+- 542 01 Matrix 
 - 543 [Diameter Binary Tree](https://github.com/zjkang/algorithm/blob/master/leetcode/543.%20Diameter%20of%20Binary%20Tree.cpp)
 - 544 [Output Contest Matches](https://github.com/zjkang/algorithm/blob/master/leetcode/544.%20Output%20Contest%20Matches.cpp)
-- 547 [Friend Circles](https://github.com/zjkang/algorithm/blob/master/leetcode/547.%20Friend%20Circles.cpp)
 - 545 [Boundary of Binary Tree](https://github.com/zjkang/algorithm/blob/master/leetcode/545.%20Boundary%20of%20Binary%20Tree.cpp)
+- 546 Remove Boxes 
+- 547 [Friend Circles](https://github.com/zjkang/algorithm/blob/master/leetcode/547.%20Friend%20Circles.cpp)
+- 548 Split Array with Equal Sum
 - 549 [Binary Tree Longest Consecutive Sequence II](https://github.com/zjkang/algorithm/blob/master/leetcode/549.%20Binary%20Tree%20Longest%20Consecutive%20Sequence%20II.cpp)
 - 551 [Student Attendance Record I](https://github.com/zjkang/algorithm/blob/master/leetcode/551.%20Student%20Attendance%20Record%20I.cpp)
+- 552 Student Attendance Record II 
+- 553 Optimal Division
 - 554 [Brick Wall](https://github.com/zjkang/algorithm/blob/master/leetcode/554.%20Brick%20Wall.cpp)
+- 555 Split Concatenated Strings
 - 556 [Next Greater Element III](https://github.com/zjkang/algorithm/blob/master/leetcode/556.%20Next%20Greater%20Element%20III.cpp)
+- 557 Reverse Words in a String III 
 - 560 [Subarray Sum Equals K](https://github.com/zjkang/algorithm/blob/master/leetcode/560.%20Subarray%20Sum%20Equals%20K.cpp)
+- 561 Array Partition I 
 - 562 [Longest Line of Consecutive One in Matrix](https://github.com/zjkang/algorithm/blob/master/leetcode/562.%20Longest%20Line%20of%20Consecutive%20One%20in%20Matrix.cpp)
+- 563 Binary Tree Tilt
+- 564 Find the Closest Palindrome
+- 565 Array Nesting
 - 566 [Reshape the Matrix](https://github.com/zjkang/algorithm/blob/master/leetcode/566.%20Reshape%20the%20Matrix.cpp)
+- 567 Permutation in String
 - 568 [Maximum Vacation Days](https://github.com/zjkang/algorithm/blob/master/leetcode/568.%20Maximum%20Vacation%20Days.cpp)
+- 572 Subtree of Another Tree
 - 573 [Squirrel Simulation](https://github.com/zjkang/algorithm/blob/master/leetcode/573.%20Squirrel%20Simulation.cpp)
+- 575 Distribute Candies
+- 576 Out of Boundary Paths
 - 581 [Shortest Unsorted Continuous Subarray](https://github.com/zjkang/algorithm/blob/master/leetcode/581.%20Shortest%20Unsorted%20Continuous%20Subarray.cpp)
+- 582 Kill Process
 - 583 [Delete Operation for Two Strings](https://github.com/zjkang/algorithm/blob/master/leetcode/583.%20Delete%20Operation%20for%20Two%20Strings.cpp)
+- 587 Erect the Fence
+- 588 Design In-Memory File System
+- 591 Tag Validator
+- 592 Fraction Addition and Subtraction
+- 593 Valid Square 
+- 594 Longest Harmonious Subsequence
+- 598 Range Addition II 
+- 599 Minimum Index Sum of Two Lists
 
 ***
 
+- 600 Non-negative Integers without Consecutive Ones
 - 604 [Design Compressed String Iterator](https://github.com/zjkang/algorithm/blob/master/leetcode/604.%20Design%20Compressed%20String%20Iterator.cpp)
+- 605 Can Place Flowers
 - 606 [Construct String from Binary Tree](https://github.com/zjkang/algorithm/blob/master/leetcode/606.%20Construct%20String%20from%20Binary%20Tree.cpp)
+- 609 Find Duplicate File in System
+- 611 Valid Triangle Number
 - 616 [Add Bold Tag in String](https://github.com/zjkang/algorithm/blob/master/leetcode/616.%20Add%20Bold%20Tag%20in%20String.cpp)
 - 617 [Merge Two Binary Trees](https://github.com/zjkang/algorithm/blob/master/leetcode/617.%20Merge%20Two%20Binary%20Trees.cpp)
+- 621 Task Scheduler
 - 623 [Add One Row to Tree](https://github.com/zjkang/algorithm/blob/master/leetcode/623.%20Add%20One%20Row%20to%20Tree.cpp)
 - 624 [Maximum Distance in Arrays](https://github.com/zjkang/algorithm/blob/master/leetcode/624.%20Maximum%20Distance%20in%20Arrays.cpp)
 - 625 [Minimum Factorization](https://github.com/zjkang/algorithm/blob/master/leetcode/625.%20Minimum%20Factorization.cpp)
 - 628 [Maximum Product of Three Numbers](https://github.com/zjkang/algorithm/blob/master/leetcode/628.%20Maximum%20Product%20of%20Three%20Numbers.cpp)
+- 629 K Inverse Pairs Array
 - 630 [Course Schedule III](https://github.com/zjkang/algorithm/blob/master/leetcode/630.%20Course%20Schedule%20III.cpp)
+- 631 Design Excel Sum Formula
+- 632 Smallest Range
 - 633 [Sum of Square Numbers](https://github.com/zjkang/algorithm/blob/master/leetcode/633.%20Sum%20of%20Square%20Numbers.cpp)
+- 634 Find the Derangement of An Array
+- 635 Design Log Storage System
+- 636 Exclusive Time of Functions
+- 637 Average of Levels in Binary Tree
 - 638 [Shopping Offers](https://github.com/zjkang/algorithm/blob/master/leetcode/638.%20Shopping%20Offers.cpp)
+- 639 Decode Ways II
+- 640 Solve the Equation
+- 642 Design Search Autocomplete System
+- 643 Maximum Average Subarray I
+- 644 Maximum Average Subarray II
+- 645 Set Mismatch
+- 646 Maximum Length of Pair Chain
+- 647 Palindromic Substrings
+- 648 Replace Words
+- 649 Dota2 Senate
+- 650 2 Keys Keyboard
+- 651 4 Keys Keyboard
+- 652 Find Duplicate Subtrees 
+- 653 Two Sum IV - Input is a BST 
+- 654 Maximum Binary Tree 
+- 655 Print Binary Tree
+- 656 Coin Path
+- 657 Judge Route Circle
+- 658 Find K Closest Elements
+- 659 Split Array into Consecutive Subsequences
+- 660 Remove 9
+- 661 Image Smoother
+- 662 Maximum Width of Binary Tree
+- 663 Equal Tree Partition
+- 664 Strange Printer
+- 665 Non-decreasing Array
+- 666 Path Sum IV
+- 667 Beautiful Arrangement II 
+- 668 Kth Smallest Number in Multiplication Table
+- 669 Trim a Binary Search Tree
+- 670 Maximum Swap
+- 671 Second Minimum Node In a Binary Tree
+- 672 Bulb Switcher II
+
+
+
+
+
+
+
+
