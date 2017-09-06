@@ -172,7 +172,7 @@
 - 164 Maximum Gap
 - 165 Compare Version Numbers
 - 166 Fraction to Recurring Decimal
-- 167 Two Sum II - Input array is sorted
+- 167 [Two Sum II - Input array is sorted](https://github.com/zjkang/algorithm/blob/master/leetcode/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.cpp)
 - 168 Excel Sheet Column Title
 - 169 Majority Element
 - 170 Two Sum III - Data structure design

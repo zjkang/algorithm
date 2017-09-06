@@ -22,40 +22,40 @@
 // 20ms
 class Solution {
 public:
-	vector<int> twoSum(vector<int> &numbers, int target) {
-		int l = 0, r = numbers.size()-1;
-		while (l < r) {
-			int sum = numbers[l] + numbers[r];
-			if (sum == target) break;
-			else if (sum < target) l++;
-			else r--;
-		}
-		return {l + 1, r + 1};
-	}
+    vector<int> twoSum(vector<int> &numbers, int target) {
+        int l = 0, r = numbers.size()-1;
+        while (l < r) {
+            int sum = numbers[l] + numbers[r];
+            if (sum == target) break;
+            else if (sum < target) l++;
+            else r--;
+        }
+        return {l + 1, r + 1};
+    }
 };
 
 
 // 13ms
 class Solution {
 public:
-	vector<int> twoSum(vector<int> &numbers, int target) {
-		for (int i = 0; i < numbers.size()-1; ++i) {
-			int idx = binSearch(numbers, target - numbers[i], i);
-			if (idx != -1) {
-				return {i+1, idx+1};
-			}
-		}    
-		return {-1, -1};
-	}
+    vector<int> twoSum(vector<int> &numbers, int target) {
+        for (int i = 0; i < numbers.size()-1; ++i) {
+            int idx = binSearch(numbers, target - numbers[i], i);
+            if (idx != -1) {
+                return {i+1, idx+1};
+            }
+        }    
+        return {-1, -1};
+    }
 
-	int binSearch(vector<int> &numbers, int target, int start) {
-		int l = start + 1, r = numbers.size() - 1;
-		while (l <= r) {
-			int m = (l + r) / 2;
-			if (target == numbers[m]) return m;
-			else if (target < numbers[m]) r = m - 1;
-			else l = m + 1;
-		}
-		return -1;
-	}
+    int binSearch(vector<int> &numbers, int target, int start) {
+        int l = start + 1, r = numbers.size() - 1;
+        while (l <= r) {
+            int m = (l + r) / 2;
+            if (target == numbers[m]) return m;
+            else if (target < numbers[m]) r = m - 1;
+            else l = m + 1;
+        }
+        return -1;
+    }
 };
