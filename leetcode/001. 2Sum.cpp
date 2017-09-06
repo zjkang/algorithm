@@ -18,50 +18,50 @@
 
 class Solution {
 public:   
-	bool compare(const pair<int, int> &a, const pair<int, int> &b) {
-		return a.first < b.first;
-	}
+    bool compare(const pair<int, int> &a, const pair<int, int> &b) {
+        return a.first < b.first;
+    }
 
-	//time: O(nlogn). pair<val,index> nums
-	vector<int> twoSum(vector<int> &numbers, int target) { 
-		vector<pair<int, int> > nums(numbers.size());
-		for (int i = 0; i < numbers.size(); ++i) {
-			nums[i] = {numbers[i], i+1};
-		}
-		sort(nums.begin(), nums.end(), compare); // O(nlogn)
+    //time: O(nlogn). pair<val,index> nums
+    vector<int> twoSum(vector<int> &numbers, int target) { 
+        vector<pair<int, int> > nums(numbers.size());
+        for (int i = 0; i < numbers.size(); ++i) {
+            nums[i] = {numbers[i], i+1};
+        }
+        sort(nums.begin(), nums.end(), compare); // O(nlogn)
 
-		int l = 0, r = nums.size() - 1;
-		while (l < r) {
-			int sum = nums[l].first + nums[r].first;
-			if (sum == target) {
-				break;
-			} else if (sum < target) {
-				l++;
-			} else {
-				r--;
-			}
-		}
-		vector<int> res;
-		res.push_back(min(nums[l].second, nums[r].second));
-		res.push_back(max(nums[l].second, nums[r].second));
-		return res;
-	}
+        int l = 0, r = nums.size() - 1;
+        while (l < r) {
+            int sum = nums[l].first + nums[r].first;
+            if (sum == target) {
+                break;
+            } else if (sum < target) {
+                l++;
+            } else {
+                r--;
+            }
+        }
+        vector<int> res;
+        res.push_back(min(nums[l].second, nums[r].second));
+        res.push_back(max(nums[l].second, nums[r].second));
+        return res;
+    }
 };
 
 //hash-table one-pass solution
 class Solution {
 public:  
-	vector<int> twoSum(vector<int> &numbers, int target) { 
-		unordered_map<int, int> map; // <value, index> 
-		for (int i = 0; i < numbers.size(); ++i) {
-			int val = target - numbers[i];
-			if (map.count(val)) {
-				vector<int> res = {map[val], i+1};
-				return res;
-			} else {
-				map[numbers[i]] = i + 1;
-			}
-		}
-		return {-1,-1};
-	}
+    vector<int> twoSum(vector<int> &numbers, int target) { 
+        unordered_map<int, int> map; // <value, index> 
+        for (int i = 0; i < numbers.size(); ++i) {
+            int val = target - numbers[i];
+            if (map.count(val)) {
+                vector<int> res = {map[val], i+1};
+                return res;
+            } else {
+                map[numbers[i]] = i + 1;
+            }
+        }
+        return {-1,-1};
+    }
 };
