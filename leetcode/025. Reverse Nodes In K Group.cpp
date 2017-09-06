@@ -28,32 +28,32 @@
 */
 class Solution {
 public:
-	int getLength(ListNode *head) {
-		int length = 0;
-		while (head) {
-			head = head->next;
-			length++;
-		}
-		return length;
-	}
+    int getLength(ListNode *head) {
+        int length = 0;
+        while (head) {
+            head = head->next;
+            length++;
+        }
+        return length;
+    }
 
-	ListNode *reverseKGroup(ListNode *head, int k) {
-		if (k <= 1) return head;
-		int reverseTimes = getLength(head) / k;
-		ListNode dummy(0); 
-		dummy.next = head;
-		head = &dummy;
-		ListNode *cur = head->next;        
-		while (reverseTimes--) {
-			for (int i = 0; i < k - 1; ++i) {
-				ListNode *move = cur->next;
-				cur->next = move->next;
-				move->next = head->next;
-				head->next = move;
-			}
-			head = cur;
-			cur = head->next;
-		}
-		return dummy.next;
-	}
+    ListNode *reverseKGroup(ListNode *head, int k) {
+        if (k <= 1) return head;
+        int reverseTimes = getLength(head) / k;
+        ListNode dummy(0); 
+        dummy.next = head;
+        head = &dummy;
+        ListNode *cur = head->next;        
+        while (reverseTimes--) {
+            for (int i = 0; i < k - 1; ++i) {
+                ListNode *move = cur->next;
+                cur->next = move->next;
+                move->next = head->next;
+                head->next = move;
+            }
+            head = cur;
+            cur = head->next;
+        }
+        return dummy.next;
+    }
 };

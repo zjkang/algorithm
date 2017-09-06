@@ -25,31 +25,31 @@
  */
 class Solution {
 public:
-	//Iteration
-	ListNode *swapPairs(ListNode *head) {
-		ListNode dummy(0);
-		dummy.next = head;
-		ListNode *cur = &dummy;
-		while (cur->next && cur->next->next) {
-			ListNode *move = cur->next->next;
-			cur->next->next = move->next;
-			move->next = cur->next;
-			cur->next = move;
-			cur = move->next;
-		}
-		return dummy.next;
-	}
+    //Iteration
+    ListNode *swapPairs(ListNode *head) {
+        ListNode dummy(0);
+        dummy.next = head;
+        ListNode *cur = &dummy;
+        while (cur->next && cur->next->next) {
+            ListNode *move = cur->next->next;
+            cur->next->next = move->next;
+            move->next = cur->next;
+            cur->next = move;
+            cur = move->next;
+        }
+        return dummy.next;
+    }
 };
 
 class Solution {
 public:  
-	//Recursion
-	ListNode *swapPairs(ListNode *head) {
-		if (!head || !head->next) return head;
-		ListNode *first = head, *second = head->next;
-		first->next = second->next;
-		second->next = first;
-		first->next = swapPairs(first->next);
-		return second;
-	}
+    //Recursion
+    ListNode *swapPairs(ListNode *head) {
+        if (!head || !head->next) return head;
+        ListNode *first = head, *second = head->next;
+        first->next = second->next;
+        second->next = first;
+        first->next = swapPairs(first->next);
+        return second;
+    }
 };

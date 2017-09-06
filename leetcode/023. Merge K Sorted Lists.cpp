@@ -24,31 +24,31 @@
   
 class compare {
 public:
-	bool operator() (ListNode* left, ListNode* right) { // min-heap
-		return left->val > right->val;
-	}
+    bool operator() (ListNode* left, ListNode* right) { // min-heap
+        return left->val > right->val;
+    }
 };
 
 class Solution {
 public:
-	ListNode *mergeKLists(vector<ListNode *> &lists) {
-		if (lists.empty()) return NULL;        
-		priority_queue<ListNode*, vector<ListNode*>, compare> heap;
-		for (int i = 0; i < lists.size(); i++) {
-			if (lists[i]) {
-				heap.push(lists[i]);
-			}
-		}
-		ListNode dummy(0);
-		ListNode* tail = &dummy;
-		while(!heap.empty()) {
-			tail->next = heap.top(); 
-			heap.pop();
-			tail = tail->next;
-			if(tail->next) {
-				heap.push(tail->next);
-			}
-		}
-		return dummy.next;
-	}
+    ListNode *mergeKLists(vector<ListNode *> &lists) {
+        if (lists.empty()) return NULL;        
+        priority_queue<ListNode*, vector<ListNode*>, compare> heap;
+        for (int i = 0; i < lists.size(); i++) {
+            if (lists[i]) {
+                heap.push(lists[i]);
+            }
+        }
+        ListNode dummy(0);
+        ListNode* tail = &dummy;
+        while(!heap.empty()) {
+            tail->next = heap.top(); 
+            heap.pop();
+            tail = tail->next;
+            if(tail->next) {
+                heap.push(tail->next);
+            }
+        }
+        return dummy.next;
+    }
 };

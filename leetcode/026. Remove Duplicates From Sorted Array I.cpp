@@ -2,7 +2,7 @@
  Author:     Zhengjian Kang
  Email:      zhengjian.kang@nyu.edu 
  Problem:    Remove Duplicates from Sorted Array I
- Source:     https://leetcode.com/problems/remove-duplicates-from-sorted-array/?tab=Description
+ Source:     https://leetcode.com/problems/remove-duplicates-from-sorted-array/
  Difficulty: Easy
  Tags:       {Array}, {Two Pointers}
  Company:    Microsoft, Bloomberg, Facebook
