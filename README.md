@@ -31,7 +31,7 @@
 - 026 [Remove Duplicates from Sorted Array](https://github.com/zjkang/algorithm/blob/master/leetcode/026.%20Remove%20Duplicates%20From%20Sorted%20Array%20I.cpp)
 - 027 [Remove Element](https://github.com/zjkang/algorithm/blob/master/leetcode/027.%20Remove%20Element.cpp)
 - 028 Implement strStr()
-- 029 Divide Two Integers
+- 029 [Divide Two Integers](https://github.com/zjkang/algorithm/blob/master/leetcode/029.%20Divide%20Two%20Integers.cpp)
 - 030 [Substring with Concatenation of All Words](https://github.com/zjkang/algorithm/blob/master/leetcode/030.%20Substring%20with%20Concatenation%20of%20All%20Words.cpp)
 - 031 Next Permutation
 - 032 Longest Valid Parentheses
