@@ -111,7 +111,7 @@
 - [103 Binary Tree Zigzag Level Order Traversal](https://github.com/zjkang/algorithm/blob/master/leetcode/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.cpp)
 - [104 Maximum Depth of Binary Tree](https://github.com/zjkang/algorithm/blob/master/leetcode/104.%20Maximum%20Depth%20of%20Binary%20Tree.cpp)
 - [105 Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/zjkang/algorithm/blob/master/leetcode/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.cpp)
-- 106 Construct Binary Tree from Inorder and Postorder Traversal
+- [106 Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/zjkang/algorithm/blob/master/leetcode/106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.cpp)
 - 107 Binary Tree Level Order Traversal II
 - 108 Convert Sorted Array to Binary Search Tree
 - 109 Convert Sorted List to Binary Search Tree
