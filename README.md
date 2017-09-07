@@ -368,7 +368,7 @@
 - 371 Sum of Two Integers
 - 372 Super Pow
 - 373 Find K Pairs with Smallest Sums
-- 374 Guess Number Higher or Lower 
+- [374 Guess Number Higher or Lower](https://github.com/zjkang/algorithm/blob/master/leetcode/374.%20Guess%20Number%20Higher%20or%20Lower.cpp) 
 - 375 Guess Number Higher or Lower II
 - 376 Wiggle Subsequence
 - [377 Combination Sum IV](https://github.com/zjkang/algorithm/blob/master/leetcode/377.%20Combination%20Sum%20IV.cpp)
