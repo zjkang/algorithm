@@ -478,7 +478,7 @@
 - 491 Increasing Subsequences
 - 492 Construct the Rectangle 
 - 493 Reverse Pairs
-- 494 [Target Sum](https://github.com/zjkang/algorithm/blob/master/leetcode/494.%20Target%20Sum.cpp)
+- [494 Target Sum](https://github.com/zjkang/algorithm/blob/master/leetcode/494.%20Target%20Sum.cpp)
 - 495 Teemo Attacking
 - [496 Next Greater Element I](https://github.com/zjkang/algorithm/blob/master/leetcode/496.%20Next%20Greater%20Element%20I.cpp)
 - 498 Diagonal Traverse
