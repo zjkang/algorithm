@@ -550,7 +550,7 @@
 - 576 Out of Boundary Paths
 - 581 [Shortest Unsorted Continuous Subarray](https://github.com/zjkang/algorithm/blob/master/leetcode/581.%20Shortest%20Unsorted%20Continuous%20Subarray.cpp)
 - 582 Kill Process
-- 583 [Delete Operation for Two Strings](https://github.com/zjkang/algorithm/blob/master/leetcode/583.%20Delete%20Operation%20for%20Two%20Strings.cpp)
+- [583 Delete Operation for Two Strings](https://github.com/zjkang/algorithm/blob/master/leetcode/583.%20Delete%20Operation%20for%20Two%20Strings.cpp)
 - 587 Erect the Fence
 - 588 Design In-Memory File System
 - 591 Tag Validator
