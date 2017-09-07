@@ -579,7 +579,7 @@
 - 630 [Course Schedule III](https://github.com/zjkang/algorithm/blob/master/leetcode/630.%20Course%20Schedule%20III.cpp)
 - 631 Design Excel Sum Formula
 - 632 Smallest Range
-- 633 [Sum of Square Numbers](https://github.com/zjkang/algorithm/blob/master/leetcode/633.%20Sum%20of%20Square%20Numbers.cpp)
+- [633 Sum of Square Numbers](https://github.com/zjkang/algorithm/blob/master/leetcode/633.%20Sum%20of%20Square%20Numbers.cpp)
 - 634 Find the Derangement of An Array
 - 635 Design Log Storage System
 - 636 Exclusive Time of Functions
