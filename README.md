@@ -322,7 +322,7 @@
 - 325 [Maximum Size Subarray Sum Equals k](https://github.com/zjkang/algorithm/blob/master/leetcode/325.%20Maximum%20Size%20Subarray%20Sum%20Equals%20k.cpp) 
 - 326 Power of Three 
 - 327 Count of Range Sum
-- 328 Odd Even Linked List
+- [328 Odd Even Linked List](https://github.com/zjkang/algorithm/blob/master/leetcode/328.%20Odd%20Even%20Linked%20List.cpp)
 - 329 Longest Increasing Path in a Matrix
 - 330 Patching Array 
 - 331 Verify Preorder Serialization of a Binary Tree
