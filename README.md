@@ -569,7 +569,7 @@
 - 609 Find Duplicate File in System
 - 611 Valid Triangle Number
 - 616 [Add Bold Tag in String](https://github.com/zjkang/algorithm/blob/master/leetcode/616.%20Add%20Bold%20Tag%20in%20String.cpp)
-- 617 [Merge Two Binary Trees](https://github.com/zjkang/algorithm/blob/master/leetcode/617.%20Merge%20Two%20Binary%20Trees.cpp)
+- [617 Merge Two Binary Trees](https://github.com/zjkang/algorithm/blob/master/leetcode/617.%20Merge%20Two%20Binary%20Trees.cpp)
 - 621 Task Scheduler
 - [623 Add One Row to Tree](https://github.com/zjkang/algorithm/blob/master/leetcode/623.%20Add%20One%20Row%20to%20Tree.cpp)
 - [624 Maximum Distance in Arrays](https://github.com/zjkang/algorithm/blob/master/leetcode/624.%20Maximum%20Distance%20in%20Arrays.cpp)
