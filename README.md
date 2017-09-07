@@ -467,7 +467,7 @@
 - 479 Largest Palindrome Product
 - 480 Sliding Window Median
 - 481 Magical String
-- 482 License Key Formatting
+- [482 License Key Formatting](https://github.com/zjkang/algorithm/blob/master/leetcode/482.%20License%20Key%20Formatting.cpp)
 - 483 Smallest Good Base
 - [484 Find Permutation](https://github.com/zjkang/algorithm/blob/master/leetcode/484.%20Find%20Permutation.cpp)
 - [485 Max Consecutive Ones](https://github.com/zjkang/algorithm/blob/master/leetcode/485.%20Max%20Consecutive%20Ones.cpp)
