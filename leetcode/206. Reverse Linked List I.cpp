@@ -23,7 +23,7 @@ struct ListNode {
 	ListNode(int v) : val(v), next(NULL) {}
 };
 
-//Recursion
+// Recursion
 ListNode* reverse_linked_list(ListNode* head) {
 	if (!head || !head->next) return head;
 	ListNode* new_head = reverse_linked_list(head->next);
@@ -32,7 +32,7 @@ ListNode* reverse_linked_list(ListNode* head) {
 	return new_head;
 }
 
-//Iteration
+// Iteration
 ListNode* reverse_linked_list(ListNode* head) {
 	if (!head) return NULL;
 	ListNode* newhead = head;

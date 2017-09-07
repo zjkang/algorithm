@@ -198,7 +198,7 @@
 - [203 Remove Linked List Elements](https://github.com/zjkang/algorithm/blob/master/leetcode/203.%20Remove%20Linked%20List%20Elements.cpp)
 - 204 Count Primes
 - 205 Isomorphic Strings
-- 206 Reverse Linked List
+- [206 Reverse Linked List](https://github.com/zjkang/algorithm/blob/master/leetcode/206.%20Reverse%20Linked%20List%20I.cpp)
 - 207 Course Schedule
 - 208 Implement Trie (Prefix Tree)
 - 209 Minimum Size Subarray Sum
