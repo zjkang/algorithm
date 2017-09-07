@@ -343,7 +343,7 @@
 - 346 Moving Average from Data Stream
 - 347 Top K Frequent Elements 
 - 348 Design Tic-Tac-Toe
-- 349 Intersection of Two Arrays
+- [349 Intersection of Two Arrays](https://github.com/zjkang/algorithm/blob/master/leetcode/349.%20Intersection%20of%20Two%20Arrays.cpp)
 - [350 Intersection of Two Arrays II](https://github.com/zjkang/algorithm/blob/master/leetcode/350.%20Intersection%20of%20Two%20Arrays%20II.cpp)
 - 351 Android Unlock Patterns
 - 352 Data Stream as Disjoint Intervals
