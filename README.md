@@ -78,7 +78,7 @@
 - 073 Set Matrix Zeroes
 - [074 Search a 2D Matrix](https://github.com/zjkang/algorithm/blob/master/leetcode/074.%20Search%202D%20Matrix.cpp)
 - 075 Sort Colors
-- 076 [Minimum Window Substring](https://github.com/zjkang/algorithm/blob/master/leetcode/076.%20Minimum%20Window%20Substring.cpp)
+- [076 Minimum Window Substring](https://github.com/zjkang/algorithm/blob/master/leetcode/076.%20Minimum%20Window%20Substring.cpp)
 - 077 Combinations
 - 078 Subsets
 - 079 Word Search
