@@ -101,7 +101,7 @@
 - [096 Unique Binary Search Trees](https://github.com/zjkang/algorithm/blob/master/leetcode/096.%20Unique%20Binary%20Search%20Trees.cpp)
 - 097 Interleaving String
 - [098 Validate Binary Search Tree](https://github.com/zjkang/algorithm/blob/master/leetcode/098.%20Validate%20Binary%20Search%20Tree.cpp)
-- 099 Recover Binary Search Tree
+- [099 Recover Binary Search Tree](https://github.com/zjkang/algorithm/blob/master/leetcode/099.%20Recover%20Binary%20Search%20Tree.cpp)
 
 ***
 

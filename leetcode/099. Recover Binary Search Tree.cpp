@@ -26,7 +26,7 @@ struct TreeNode {
 
 class Solution {
 public:
-    //inorder traversal, space O(n)
+    // Inorder traversal, space O(n)
     void inorderTraversal(TreeNode *root, vector<TreeNode*> &inorder) {
         if (!root) return;
         inorderTraversal(root->left, inorder);
@@ -53,7 +53,7 @@ public:
 
 class Solution {
 public:
-    //Inorder traversal with 2 pointers
+    // Inorder traversal with 2 pointers
     void recoverTree(TreeNode *root) {
         TreeNode* prev = NULL, *first = NULL, *second = NULL;
         recoverTreeHelper(root, prev, first, second);
@@ -62,11 +62,11 @@ public:
 
     void recoverTreeHelper(TreeNode* root, TreeNode* &prev, TreeNode* &first, TreeNode* &second) {
         if (root == NULL) return;
-        //if (first && second) return; // BUG! find 2 pointers.
+        // if (first && second) return; // BUG! find 2 pointers.
         recoverTreeHelper(root->left, prev, first, second);
         if (prev && prev->val > root->val) {
             if (first == NULL) first = prev;                
-            second = root; //两种情况, 相邻或者不相邻的两个点置换, 无论哪一种, 这个都可以cover.
+            second = root; // 两种情况, 相邻或者不相邻的两个点置换, 无论哪一种, 这个都可以cover.
         }
         prev = root;
         recoverTreeHelper(root->right, prev, first, second);
@@ -75,7 +75,7 @@ public:
 
 class Solution {
 public:
-    //Version 3: Morris tree, inorder traversal
+    // Morris tree, inorder traversal
     void recoverTree(TreeNode *root) {
         TreeNode *cur = root, *prev = NULL;
         TreeNode *first = NULL, *second = NULL, *last = NULL;
