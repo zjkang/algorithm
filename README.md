@@ -363,7 +363,7 @@
 - 366 Find Leaves of Binary Tree
 - 367 Valid Perfect Square 
 - 368 Largest Divisible Subset 
-- 369 Plus One Linked List
+- [369 Plus One Linked List](https://github.com/zjkang/algorithm/blob/master/leetcode/369.%20Plus%20One%20Linked%20List.cpp)
 - 370 Range Addition
 - 371 Sum of Two Integers
 - 372 Super Pow
