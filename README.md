@@ -466,7 +466,7 @@
 - 477 Total Hamming Distance
 - 479 Largest Palindrome Product
 - 480 Sliding Window Median
-- 481 Magical String
+- [481 Magical String](https://github.com/zjkang/algorithm/blob/master/leetcode/481.%20Magical%20String.cpp)
 - [482 License Key Formatting](https://github.com/zjkang/algorithm/blob/master/leetcode/482.%20License%20Key%20Formatting.cpp)
 - 483 Smallest Good Base
 - [484 Find Permutation](https://github.com/zjkang/algorithm/blob/master/leetcode/484.%20Find%20Permutation.cpp)
