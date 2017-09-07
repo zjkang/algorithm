@@ -543,7 +543,7 @@
 - 565 Array Nesting
 - 566 [Reshape the Matrix](https://github.com/zjkang/algorithm/blob/master/leetcode/566.%20Reshape%20the%20Matrix.cpp)
 - 567 Permutation in String
-- 568 [Maximum Vacation Days](https://github.com/zjkang/algorithm/blob/master/leetcode/568.%20Maximum%20Vacation%20Days.cpp)
+- [568 Maximum Vacation Days](https://github.com/zjkang/algorithm/blob/master/leetcode/568.%20Maximum%20Vacation%20Days.cpp)
 - 572 Subtree of Another Tree
 - [573 Squirrel Simulation](https://github.com/zjkang/algorithm/blob/master/leetcode/573.%20Squirrel%20Simulation.cpp)
 - 575 Distribute Candies
