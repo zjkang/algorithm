@@ -74,4 +74,3 @@ public:
         return matrix[l/N][l%N] == target || matrix[h/N][h%N] == target ? true : false;
     }
 };
-
