@@ -386,7 +386,7 @@
 - 389 Find the Difference
 - 390 Elimination Game
 - 391 Perfect Rectangle 
-- 392 Is Subsequence
+- [392 Is Subsequence](https://github.com/zjkang/algorithm/blob/master/leetcode/392.%20Is%20Subsequence.cpp)
 - 393 UTF-8 Validation
 - 394 Decode String 
 - 395 Longest Substring with At Least K Repeating Characters
