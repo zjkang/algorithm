@@ -528,7 +528,7 @@
 - 547 [Friend Circles](https://github.com/zjkang/algorithm/blob/master/leetcode/547.%20Friend%20Circles.cpp)
 - 548 Split Array with Equal Sum
 - 549 [Binary Tree Longest Consecutive Sequence II](https://github.com/zjkang/algorithm/blob/master/leetcode/549.%20Binary%20Tree%20Longest%20Consecutive%20Sequence%20II.cpp)
-- 551 [Student Attendance Record I](https://github.com/zjkang/algorithm/blob/master/leetcode/551.%20Student%20Attendance%20Record%20I.cpp)
+- [551 Student Attendance Record I](https://github.com/zjkang/algorithm/blob/master/leetcode/551.%20Student%20Attendance%20Record%20I.cpp)
 - 552 Student Attendance Record II 
 - 553 Optimal Division
 - [554 Brick Wall](https://github.com/zjkang/algorithm/blob/master/leetcode/554.%20Brick%20Wall.cpp)
