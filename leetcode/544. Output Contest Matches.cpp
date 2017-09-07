@@ -20,6 +20,7 @@
  Then we pair the team (1,2) together with '(', ')' and ',', which is the final answer.
  Example 2:
  Input: 4
+
  Output: ((1,4),(2,3))
  Explanation: 
  In the first round, we pair the team 1 and 4, the team 2 and 3 together, as we need to make the strong team and weak team together.
