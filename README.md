@@ -418,7 +418,7 @@
 - 418 Sentence Screen Fitting
 - 419 Battleships in a Board
 - 420 Strong Password Checker
-- 421 Maximum XOR of Two Numbers in an Array 
+- [421 Maximum XOR of Two Numbers in an Array](https://github.com/zjkang/algorithm/blob/master/leetcode/421.%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array.cpp)
 - [422 Valid Word Square](https://github.com/zjkang/algorithm/blob/master/leetcode/422.%20Valid%20Word%20Square.cpp)
 - 423 Reconstruct Original Digits from English 
 - 424 Longest Repeating Character Replacement
