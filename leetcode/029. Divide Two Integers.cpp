@@ -57,6 +57,3 @@ public:
         return res + divide(dividend - helper, divisor);
     }
 };
-
-
-
