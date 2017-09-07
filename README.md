@@ -278,7 +278,7 @@
 - 284 Peeking Iterator
 - 285 Inorder Successor in BST 
 - 286 Walls and Gates
-- 287 Find the Duplicate Number
+- [287 Find the Duplicate Number](https://github.com/zjkang/algorithm/blob/master/leetcode/287.%20Find%20Duplicate%20Number.cpp)
 - 288 Unique Word Abbreviation
 - 289 Game of Life
 - 290 Word Pattern 
