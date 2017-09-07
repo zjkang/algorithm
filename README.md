@@ -504,7 +504,7 @@
 - 521 [Longest Uncommon Subsequence I](https://github.com/zjkang/algorithm/blob/master/leetcode/521.%20Longest%20Uncommon%20Subsequence%20I.cpp)
 - 522 [Longest Uncommon Subsequence II](https://github.com/zjkang/algorithm/blob/master/leetcode/522.%20Longest%20Uncommon%20Subsequence%20II.cpp)
 - 523 Continuous Subarray Sum
-- 524 [Longest Word in Dictionary through Deleting](https://github.com/zjkang/algorithm/blob/master/leetcode/524.%20Longest%20Word%20in%20Dictionary%20through%20Deleting.cpp)
+- [524 Longest Word in Dictionary through Deleting](https://github.com/zjkang/algorithm/blob/master/leetcode/524.%20Longest%20Word%20in%20Dictionary%20through%20Deleting.cpp)
 - [525 Contiguous Array](https://github.com/zjkang/algorithm/blob/master/leetcode/525.%20Contiguous%20Array.cpp)
 - [526 Beautiful Arrangement](https://github.com/zjkang/algorithm/blob/master/leetcode/526.%20Beautiful%20Arrangement.cpp)
 - 527 Word Abbreviation
