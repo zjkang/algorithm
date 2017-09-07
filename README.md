@@ -476,7 +476,7 @@
 - 488 Zuma Game
 - [490 The Maze](https://github.com/zjkang/algorithm/blob/master/leetcode/490.%20The%20Maze.cpp)
 - 491 Increasing Subsequences
-- 492 Construct the Rectangle 
+- [492 Construct the Rectangle](https://github.com/zjkang/algorithm/blob/master/leetcode/492.%20Construct%20the%20Rectangle.cpp) 
 - 493 Reverse Pairs
 - [494 Target Sum](https://github.com/zjkang/algorithm/blob/master/leetcode/494.%20Target%20Sum.cpp)
 - 495 Teemo Attacking
