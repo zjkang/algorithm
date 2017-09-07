@@ -146,7 +146,7 @@
 - [138 Copy List with Random Pointer](https://github.com/zjkang/algorithm/blob/master/leetcode/138.%20Copy%20List%20With%20Random%20Pointer.cpp)
 - 139 Word Break
 - 140 Word Break II
-- 141 Linked List Cycle
+- [141 Linked List Cycle](https://github.com/zjkang/algorithm/blob/master/leetcode/141.%20Linked%20List%20Cycle%20I.cpp)
 - 142 Linked List Cycle II
 - 143 Reorder List
 - 144 Binary Tree Preorder Traversal
