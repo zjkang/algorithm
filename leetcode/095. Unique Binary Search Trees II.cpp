@@ -49,7 +49,7 @@ public:
 
 class Solution {
 public:
-    // Version 2: DFS + DP
+    // DFS + DP
     vector<TreeNode *> generateTrees(int n) {
         vector<TreeNode*> dp[n + 1];
         dp[0] = vector<TreeNode *>(1, (TreeNode *)NULL);
