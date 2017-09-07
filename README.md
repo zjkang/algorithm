@@ -500,7 +500,7 @@
 - 515 [Find Largest Value in Each Tree Row](https://github.com/zjkang/algorithm/blob/master/leetcode/515.%20Find%20Largest%20Value%20in%20Each%20Tree%20Row.cpp)
 - 516 [Longest Palindromic Subsequence](https://github.com/zjkang/algorithm/blob/master/leetcode/516.%20Longest%20Palindromic%20Subsequence.cpp)
 - 517 Super Washing Machines
-- 520 [Detect Capital](https://github.com/zjkang/algorithm/blob/master/leetcode/520.%20Detect%20Capital.cpp)
+- [520 Detect Capital](https://github.com/zjkang/algorithm/blob/master/leetcode/520.%20Detect%20Capital.cpp)
 - [521 Longest Uncommon Subsequence I](https://github.com/zjkang/algorithm/blob/master/leetcode/521.%20Longest%20Uncommon%20Subsequence%20I.cpp)
 - [522 Longest Uncommon Subsequence II](https://github.com/zjkang/algorithm/blob/master/leetcode/522.%20Longest%20Uncommon%20Subsequence%20II.cpp)
 - 523 Continuous Subarray Sum
