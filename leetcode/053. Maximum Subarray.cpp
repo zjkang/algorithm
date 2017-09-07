@@ -13,7 +13,7 @@
 
 class Solution {
 public:
-	// dp: max value ending with index i
+    // dp: max value ending with index i
     int maxSubArray(int A[], int n) {
         int res = A[0]; // max value
         int dp = A[0]; // max value ending at index i

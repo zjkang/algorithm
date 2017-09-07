@@ -25,23 +25,23 @@
  */
 class Solution {
 public:
-	ListNode *rotateRight(ListNode *head, int k) {
-		if (!head) return NULL;
-		ListNode* tail = head;
-		int length = 1;
-		while (tail->next) {
-			tail = tail->next;
-			length++;
-		}
-		k = k % length; // edge case: the list rotates more than one round.
-		if (k == 0) return head;
-		ListNode* cur = head;
-		for (int i = 0; i < length - k - 1; i++) {
-			cur = cur->next;            
-		}
-		ListNode* newHead = cur->next;
-		cur->next = NULL;
-		tail->next = head;
-		return newHead;
-	}
+    ListNode *rotateRight(ListNode *head, int k) {
+        if (!head) return NULL;
+        ListNode* tail = head;
+        int length = 1;
+        while (tail->next) {
+            tail = tail->next;
+            length++;
+        }
+        k = k % length; // edge case: the list rotates more than one round.
+        if (k == 0) return head;
+        ListNode* cur = head;
+        for (int i = 0; i < length - k - 1; i++) {
+            cur = cur->next;            
+        }
+        ListNode* newHead = cur->next;
+        cur->next = NULL;
+        tail->next = head;
+        return newHead;
+    }
 };

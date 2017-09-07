@@ -63,7 +63,7 @@
 - 058 Length of Last Word
 - 059 Spiral Matrix II
 - 060 Permutation Sequence
-- 061 Rotate List
+- [061 Rotate List](https://github.com/zjkang/algorithm/blob/master/leetcode/061.%20Rotate%20List.cpp)
 - 062 Unique Paths
 - 063 Unique Paths II
 - 064 Minimum Path Sum
@@ -71,7 +71,7 @@
 - 066 Plus One
 - 067 Add Binary
 - 068 Text Justification
-- 069 Sqrt(x)
+- [069 Sqrt(x)](https://github.com/zjkang/algorithm/blob/master/leetcode/069.%20Sqrt(x).cpp)
 - 070 Climbing Stairs
 - 071 Simplify Path
 - 072 Edit Distance
