@@ -463,7 +463,7 @@
 - 474 Ones and Zeroes
 - 475 [Heaters](https://github.com/zjkang/algorithm/blob/master/leetcode/475.%20Heaters.cpp)
 - 476 Number Complement 
-- 477 Total Hamming Distance
+- [477 Total Hamming Distance](https://github.com/zjkang/algorithm/blob/master/leetcode/477.%20Total%20Hamming%20Distance.cpp)
 - 479 Largest Palindrome Product
 - 480 Sliding Window Median
 - [481 Magical String](https://github.com/zjkang/algorithm/blob/master/leetcode/481.%20Magical%20String.cpp)
