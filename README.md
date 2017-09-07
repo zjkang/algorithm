@@ -563,7 +563,7 @@
 ***
 
 - 600 Non-negative Integers without Consecutive Ones
-- 604 [Design Compressed String Iterator](https://github.com/zjkang/algorithm/blob/master/leetcode/604.%20Design%20Compressed%20String%20Iterator.cpp)
+- [604 Design Compressed String Iterator](https://github.com/zjkang/algorithm/blob/master/leetcode/604.%20Design%20Compressed%20String%20Iterator.cpp)
 - 605 Can Place Flowers
 - [606 Construct String from Binary Tree](https://github.com/zjkang/algorithm/blob/master/leetcode/606.%20Construct%20String%20from%20Binary%20Tree.cpp)
 - 609 Find Duplicate File in System
