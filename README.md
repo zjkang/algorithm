@@ -143,7 +143,7 @@
 - 135 Candy
 - 136 Single Number
 - 137 Single Number II
-- 138 Copy List with Random Pointer
+- [138 Copy List with Random Pointer](https://github.com/zjkang/algorithm/blob/master/leetcode/138.%20Copy%20List%20With%20Random%20Pointer.cpp)
 - 139 Word Break
 - 140 Word Break II
 - 141 Linked List Cycle
