@@ -584,7 +584,7 @@
 - 635 Design Log Storage System
 - 636 Exclusive Time of Functions
 - 637 Average of Levels in Binary Tree
-- 638 [Shopping Offers](https://github.com/zjkang/algorithm/blob/master/leetcode/638.%20Shopping%20Offers.cpp)
+- [638 Shopping Offers](https://github.com/zjkang/algorithm/blob/master/leetcode/638.%20Shopping%20Offers.cpp)
 - 639 Decode Ways II
 - 640 Solve the Equation
 - 642 Design Search Autocomplete System
