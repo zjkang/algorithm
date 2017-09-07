@@ -159,7 +159,7 @@
 - 151 Reverse Words in a String
 - [152 Maximum Product Subarray](https://github.com/zjkang/algorithm/blob/master/leetcode/152.%20Maximum%20Product%20Subarray.cpp)
 - [153 Find Minimum in Rotated Sorted Array](https://github.com/zjkang/algorithm/blob/master/leetcode/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20I.cpp)
-- 154 Find Minimum in Rotated Sorted Array II
+- [154 Find Minimum in Rotated Sorted Array II](https://github.com/zjkang/algorithm/blob/master/leetcode/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.cpp)
 - 155 Min Stack
 - 156 Binary Tree Upside Down
 - 157 Read N Characters Given Read4
