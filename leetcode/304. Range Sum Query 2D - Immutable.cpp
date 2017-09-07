@@ -70,7 +70,6 @@ private:
     vector<vector<int>> d_dp;
 };
 
-
 // Your NumMatrix object will be instantiated and called as such:
 // NumMatrix numMatrix(matrix);
 // numMatrix.sumRegion(0, 1, 2, 3);

@@ -298,7 +298,7 @@
 - 301 Remove Invalid Parentheses 
 - 302 Smallest Rectangle Enclosing Black Pixels
 - 303 Range Sum Query - Immutable
-- 304 Range Sum Query 2D - Immutable 
+- [304 Range Sum Query 2D - Immutable](https://github.com/zjkang/algorithm/blob/master/leetcode/304.%20Range%20Sum%20Query%202D%20-%20Immutable.cpp) 
 - 305 Number of Islands II
 - 306 Additive Number 
 - [307 Range Sum Query - Mutable](https://github.com/zjkang/algorithm/blob/master/leetcode/307.%20Range%20Sum%20Query%20-%20Mutable.cpp)
