@@ -218,7 +218,7 @@
 - 223 Rectangle Area
 - 224 Basic Calculator
 - 225 Implement Stack using Queues
-- 226 Invert Binary Tree
+- [226 Invert Binary Tree](https://github.com/zjkang/algorithm/blob/master/leetcode/226.%20Invert%20Binary%20Tree.cpp)
 - 227 Basic Calculator II
 - 228 Summary Ranges
 - 229 Majority Element II
