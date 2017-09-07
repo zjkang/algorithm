@@ -23,7 +23,7 @@
 - 018 4Sum
 - 019 [Remove Nth Node From End of List](https://github.com/zjkang/algorithm/blob/master/leetcode/019.%20Remove%20Nth%20Node%20From%20End%20Of%20List.cpp)
 - 020 Valid Parentheses
-- 021 [Merge Two Sorted Lists](https://github.com/zjkang/algorithm/blob/master/leetcode/021.%20Merge%20Two%20Sorted%20Lists.cpp)
+- [021 Merge Two Sorted Lists](https://github.com/zjkang/algorithm/blob/master/leetcode/021.%20Merge%20Two%20Sorted%20Lists.cpp)
 - 022 Generate Parentheses
 - [023 Merge k Sorted Lists](https://github.com/zjkang/algorithm/blob/master/leetcode/023.%20Merge%20K%20Sorted%20Lists.cpp)
 - [024 Swap Nodes in Pairs](https://github.com/zjkang/algorithm/blob/master/leetcode/024.%20Swap%20Nodes%20In%20Pairs.cpp)
