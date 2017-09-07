@@ -525,7 +525,7 @@
 - 544 [Output Contest Matches](https://github.com/zjkang/algorithm/blob/master/leetcode/544.%20Output%20Contest%20Matches.cpp)
 - 545 [Boundary of Binary Tree](https://github.com/zjkang/algorithm/blob/master/leetcode/545.%20Boundary%20of%20Binary%20Tree.cpp)
 - 546 Remove Boxes 
-- 547 [Friend Circles](https://github.com/zjkang/algorithm/blob/master/leetcode/547.%20Friend%20Circles.cpp)
+- [547 Friend Circles](https://github.com/zjkang/algorithm/blob/master/leetcode/547.%20Friend%20Circles.cpp)
 - 548 Split Array with Equal Sum
 - [549 Binary Tree Longest Consecutive Sequence II](https://github.com/zjkang/algorithm/blob/master/leetcode/549.%20Binary%20Tree%20Longest%20Consecutive%20Sequence%20II.cpp)
 - [551 Student Attendance Record I](https://github.com/zjkang/algorithm/blob/master/leetcode/551.%20Student%20Attendance%20Record%20I.cpp)
