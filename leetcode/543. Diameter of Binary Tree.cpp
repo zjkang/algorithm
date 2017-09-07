@@ -49,4 +49,3 @@ public:
         return res == 0 ? 0 : res-1;
     }
 };
-
