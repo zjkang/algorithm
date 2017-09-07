@@ -489,7 +489,7 @@
 - 500 [Keyboard Row](https://github.com/zjkang/algorithm/blob/master/leetcode/500.%20Keyboard%20Row.cpp)
 - 501 [Find Mode in Binary Search Tree](https://github.com/zjkang/algorithm/blob/master/leetcode/501.%20Find%20Mode%20in%20Binary%20Search%20Tree.cpp)
 - 502 IPO
-- 503 [Next Greater Element II](https://github.com/zjkang/algorithm/blob/master/leetcode/503.%20Next%20Greater%20Element%20II.cpp)
+- [503 Next Greater Element II](https://github.com/zjkang/algorithm/blob/master/leetcode/503.%20Next%20Greater%20Element%20II.cpp)
 - 504 Base 7
 - 505 The Maze II
 - [506 Relative Ranks](https://github.com/zjkang/algorithm/blob/master/leetcode/506.%20Relative%20Ranks.cpp)
