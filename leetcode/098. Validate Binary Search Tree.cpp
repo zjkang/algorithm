@@ -47,7 +47,7 @@ public:
 
 class Solution {
 public:  
-    // Inorder traversal & lower bound
+    // Inorder traversal (lower bound)
     bool isValidBST(TreeNode *root) {
         TreeNode* min = NULL;
         return isValidBSTHelper(root, min);
