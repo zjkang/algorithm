@@ -43,4 +43,3 @@ public:
         return res > INT_MAX ? -1 : (int)res;
     }
 };
-
