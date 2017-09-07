@@ -372,7 +372,7 @@
 - 375 Guess Number Higher or Lower II
 - 376 Wiggle Subsequence
 - 377 Combination Sum IV
-- 378 Kth Smallest Element in a Sorted Matrix
+- [378 Kth Smallest Element in a Sorted Matrix](https://github.com/zjkang/algorithm/blob/master/leetcode/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.cpp)
 - [379 Design Phone Directory](https://github.com/zjkang/algorithm/blob/master/leetcode/379.%20Design%20Phone%20Directory.cpp)
 - 380 Insert Delete GetRandom O(1)
 - 381 Insert Delete GetRandom O(1) - Duplicates allowed
