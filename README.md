@@ -88,7 +88,7 @@
 - [083 Remove Duplicates from Sorted List](https://github.com/zjkang/algorithm/blob/master/leetcode/083.%20Remove%20Duplicates%20From%20Sorted%20List%20I.cpp)
 - 084 Largest Rectangle in Histogram
 - 085 Maximal Rectangle
-- 086 Partition List
+- [086 Partition List](https://github.com/zjkang/algorithm/blob/master/leetcode/086.%20Partition%20List.cpp)
 - 087 Scramble String
 - 088 Merge Sorted Array
 - 089 Gray Code

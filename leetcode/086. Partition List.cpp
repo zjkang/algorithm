@@ -25,23 +25,23 @@
  */
 class Solution {
 public:
-	ListNode *partition(ListNode *head, int x) {
-		if (!head) return NULL;
-		ListNode leftDummy(0);
-		ListNode rightDummy(0);
-		ListNode *left = &leftDummy, *right = &rightDummy;
-		while (head) {
-			if (head->val < x) {
-				left->next = head;
-				left = head;
-			} else {
-				right->next = head;
-				right = head;
-			}
-			head = head->next;
-		}
-		right->next = NULL;
-		left->next = rightDummy.next;
-		return leftDummy.next;
-	}
+    ListNode *partition(ListNode *head, int x) {
+        if (!head) return NULL;
+        ListNode leftDummy(0);
+        ListNode rightDummy(0);
+        ListNode *left = &leftDummy, *right = &rightDummy;
+        while (head) {
+            if (head->val < x) {
+                left->next = head;
+                left = head;
+            } else {
+                right->next = head;
+                right = head;
+            }
+            head = head->next;
+        }
+        right->next = NULL;
+        left->next = rightDummy.next;
+        return leftDummy.next;
+    }
 };
