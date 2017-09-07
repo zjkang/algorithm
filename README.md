@@ -361,7 +361,7 @@
 - 364 Nested List Weight Sum II
 - 365 Water and Jug Problem
 - 366 Find Leaves of Binary Tree
-- 367 Valid Perfect Square 
+- [367 Valid Perfect Square](https://github.com/zjkang/algorithm/blob/master/leetcode/367.%20Valid%20Perfect%20Square.cpp) 
 - 368 Largest Divisible Subset 
 - [369 Plus One Linked List](https://github.com/zjkang/algorithm/blob/master/leetcode/369.%20Plus%20One%20Linked%20List.cpp)
 - 370 Range Addition
