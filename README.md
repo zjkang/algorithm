@@ -247,7 +247,7 @@
 - 252 Meeting Rooms
 - 253 Meeting Rooms II
 - 254 Factor Combinations
-- 255 Verify Preorder Sequence in Binary Search Tree
+- [255 Verify Preorder Sequence in Binary Search Tree](https://github.com/zjkang/algorithm/blob/master/leetcode/255.%20Verify%20Preorder%20Sequence%20in%20Binary%20Search%20Tree.cpp)
 - 256 Paint House
 - [257 Binary Tree Paths](https://github.com/zjkang/algorithm/blob/master/leetcode/257.%20Binary%20Tree%20Paths.cpp)
 - 258 Add Digits
