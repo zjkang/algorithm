@@ -147,7 +147,7 @@
 - 139 Word Break
 - 140 Word Break II
 - [141 Linked List Cycle](https://github.com/zjkang/algorithm/blob/master/leetcode/141.%20Linked%20List%20Cycle%20I.cpp)
-- 142 Linked List Cycle II
+- [142 Linked List Cycle II](https://github.com/zjkang/algorithm/blob/master/leetcode/142.%20Linked%20List%20Cycle%20II.cpp)
 - 143 Reorder List
 - 144 Binary Tree Preorder Traversal
 - 145 Binary Tree Postorder Traversal
