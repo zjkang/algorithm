@@ -29,22 +29,20 @@
  */
 class Solution {
 public:
-	ListNode *reverseBetween(ListNode *head, int m, int n) {
-		ListNode dummy(0);
-		dummy.next = head;
-		head = &dummy;   
-		for (int i = 0; i < m - 1; ++i) {
-			head = head->next;
-		}
-		ListNode *cur = head->next;
-		for (int i = 0; i < n - m; ++i) {
-			ListNode *move = cur->next;
-			cur->next = move->next;
-			move->next = head->next;
-			head->next = move;
-		}
-		return dummy.next;
-	}
+    ListNode *reverseBetween(ListNode *head, int m, int n) {
+        ListNode dummy(0);
+        dummy.next = head;
+        head = &dummy;   
+        for (int i = 0; i < m - 1; ++i) {
+            head = head->next;
+        }
+        ListNode *cur = head->next;
+        for (int i = 0; i < n - m; ++i) {
+            ListNode *move = cur->next;
+            cur->next = move->next;
+            move->next = head->next;
+            head->next = move;
+        }
+        return dummy.next;
+    }
 };
-
-

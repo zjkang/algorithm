@@ -94,7 +94,7 @@
 - 089 Gray Code
 - 090 Subsets II
 - 091 Decode Ways
-- 092 Reverse Linked List II
+- [092 Reverse Linked List II](https://github.com/zjkang/algorithm/blob/master/leetcode/092.%20Reverse%20Linked%20List%20II.cpp)
 - 093 Restore IP Addresses
 - 094 Binary Tree Inorder Traversal
 - 095 Unique Binary Search Trees II
