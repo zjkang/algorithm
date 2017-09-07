@@ -134,7 +134,7 @@
 - 126 Word Ladder II
 - 127 Word Ladder
 - 128 Longest Consecutive Sequence
-- 129 Sum Root to Leaf Numbers
+- [129 Sum Root to Leaf Numbers](https://github.com/zjkang/algorithm/blob/master/leetcode/129.%20Sum%20Root%20To%20Leaf%20Numbers.cpp)
 - 130 Surrounded Regions
 - 131 Palindrome Partitioning
 - 132 Palindrome Partitioning II
