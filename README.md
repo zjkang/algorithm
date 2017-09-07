@@ -121,7 +121,7 @@
 - [113 Path Sum II](https://github.com/zjkang/algorithm/blob/master/leetcode/113.%20Path%20Sum%20II.cpp)
 - [114 Flatten Binary Tree to Linked List](https://github.com/zjkang/algorithm/blob/master/leetcode/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.cpp)
 - 115 Distinct Subsequences
-- 116 Populating Next Right Pointers in Each Node
+- [116 Populating Next Right Pointers in Each Node](https://github.com/zjkang/algorithm/blob/master/leetcode/116.%20Populate%20Next%20Right%20Pointers%20In%20Each%20Node.cpp)
 - 117 Populating Next Right Pointers in Each Node II
 - 118 Pascal's Triangle
 - 119 Pascal's Triangle II
