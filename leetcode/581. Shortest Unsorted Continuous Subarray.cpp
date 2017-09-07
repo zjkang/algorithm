@@ -44,6 +44,5 @@ public:
         while (right < nums.size() && nums[right] < maxVal) right++;
         
         return right-left-1 < 0 ? 0 : right-left-1;
-        
     }
 };
