@@ -253,7 +253,7 @@
 - 258 Add Digits
 - 259 3Sum Smaller
 - 260 Single Number III
-- 261 [Graph Valid Tree](https://github.com/zjkang/algorithm/blob/master/leetcode/261.%20Graph%20Valid%20Tree.cpp)
+- [261 Graph Valid Tree](https://github.com/zjkang/algorithm/blob/master/leetcode/261.%20Graph%20Valid%20Tree.cpp)
 - 263 Ugly Number
 - 264 Ugly Number II
 - 265 Paint House II
