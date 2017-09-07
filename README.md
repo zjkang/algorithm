@@ -106,7 +106,7 @@
 ***
 
 - [100 Same Tree](https://github.com/zjkang/algorithm/blob/master/leetcode/100.%20Same%20Tree.cpp)
-- 101 Symmetric Tree
+- [101 Symmetric Tree](https://github.com/zjkang/algorithm/blob/master/leetcode/101.%20Symmetric%20Tree.cpp)
 - 102 Binary Tree Level Order Traversal
 - 103 Binary Tree Zigzag Level Order Traversal
 - 104 Maximum Depth of Binary Tree
