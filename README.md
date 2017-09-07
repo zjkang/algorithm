@@ -510,7 +510,7 @@
 - 527 Word Abbreviation
 - 529 Minesweeper 
 - 530 [Minimum Absolute Difference in BST](https://github.com/zjkang/algorithm/blob/master/leetcode/530.%20Minimum%20Absolute%20Difference%20in%20BST.cpp)
-- 531 [Lonely Pixel I](https://github.com/zjkang/algorithm/blob/master/leetcode/531.%20Lonely%20Pixel%20I.cpp)
+- [531 Lonely Pixel I](https://github.com/zjkang/algorithm/blob/master/leetcode/531.%20Lonely%20Pixel%20I.cpp)
 - 532 K-diff Pairs in an Array
 - [533 Lonely Pixel II](https://github.com/zjkang/algorithm/blob/master/leetcode/533.%20Lonely%20Pixel%20II.cpp)
 - 535 Encode and Decode TinyURL 
