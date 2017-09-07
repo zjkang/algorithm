@@ -37,7 +37,6 @@ private:
     vector<int> d_dp;
 };
 
-
 // Your NumArray object will be instantiated and called as such:
 // NumArray numArray(nums);
 // numArray.sumRange(0, 1);

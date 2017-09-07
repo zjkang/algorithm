@@ -297,7 +297,7 @@
 - 300 [Longest Increasing Subsequence](https://github.com/zjkang/algorithm/blob/master/leetcode/300.%20Longest%20Increasing%20Subsequence.cpp)
 - 301 Remove Invalid Parentheses 
 - 302 Smallest Rectangle Enclosing Black Pixels
-- 303 Range Sum Query - Immutable
+- [303 Range Sum Query - Immutable](https://github.com/zjkang/algorithm/blob/master/leetcode/303.%20Range%20Sum%20Query%20-%20Immutable.cpp)
 - [304 Range Sum Query 2D - Immutable](https://github.com/zjkang/algorithm/blob/master/leetcode/304.%20Range%20Sum%20Query%202D%20-%20Immutable.cpp) 
 - 305 Number of Islands II
 - 306 Additive Number 
