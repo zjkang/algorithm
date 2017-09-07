@@ -157,7 +157,7 @@
 - 149 Max Points on a Line
 - 150 Evaluate Reverse Polish Notation
 - 151 Reverse Words in a String
-- 152 [Maximum Product Subarray](https://github.com/zjkang/algorithm/blob/master/leetcode/152.%20Maximum%20Product%20Subarray.cpp)
+- [152 Maximum Product Subarray](https://github.com/zjkang/algorithm/blob/master/leetcode/152.%20Maximum%20Product%20Subarray.cpp)
 - 153 Find Minimum in Rotated Sorted Array
 - 154 Find Minimum in Rotated Sorted Array II
 - 155 Min Stack
