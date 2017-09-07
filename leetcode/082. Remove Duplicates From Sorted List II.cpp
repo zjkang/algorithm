@@ -22,43 +22,43 @@
  */
 class Solution {
 public:    
-	ListNode *deleteDuplicates(ListNode *head) {
-		if (!head || !head->next) return head;        
-		ListNode dummy(0);
-		dummy.next = head;
-		head = &dummy; 
-		while (head->next && head->next->next) {
-			if (head->next->val == head->next->next->val) {
-				int val = head->next->val;
-				while (head->next && head->next->val == val) {
-					ListNode* node = head->next;
-					head->next = head->next->next;
-					delete node;
-				}            
-			} else {
-				head = head->next;
-			}
-		}
-		return dummy.next;
-	}
+    ListNode *deleteDuplicates(ListNode *head) {
+        if (!head || !head->next) return head;        
+        ListNode dummy(0);
+        dummy.next = head;
+        head = &dummy; 
+        while (head->next && head->next->next) {
+            if (head->next->val == head->next->next->val) {
+                int val = head->next->val;
+                while (head->next && head->next->val == val) {
+                    ListNode* node = head->next;
+                    head->next = head->next->next;
+                    delete node;
+                }            
+            } else {
+                head = head->next;
+            }
+        }
+        return dummy.next;
+    }
 };
 
 class Solution {
 public:
-	ListNode *deleteDuplicates(ListNode *head) {
-		if (!head) {
-			return NULL;
-		}
-		if (!head->next || head->val != head->next->val) {
-			head->next = deleteDuplicates(head->next);
-			return head;
-		}
-		int val = head->val;
-		while (head && head->val == val) {
-			ListNode *temp = head;
-			head = head->next;
-			delete temp;
-		}        
-		return deleteDuplicates(head);
-	}
+    ListNode *deleteDuplicates(ListNode *head) {
+        if (!head) {
+            return NULL;
+        }
+        if (!head->next || head->val != head->next->val) {
+            head->next = deleteDuplicates(head->next);
+            return head;
+        }
+        int val = head->val;
+        while (head && head->val == val) {
+            ListNode *temp = head;
+            head = head->next;
+            delete temp;
+        }        
+        return deleteDuplicates(head);
+    }
 };

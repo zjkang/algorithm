@@ -76,16 +76,16 @@
 - 071 Simplify Path
 - 072 Edit Distance
 - 073 Set Matrix Zeroes
-- 074 Search a 2D Matrix
+- [074 Search a 2D Matrix](https://github.com/zjkang/algorithm/blob/master/leetcode/074.%20Search%202D%20Matrix.cpp)
 - 075 Sort Colors
 - 076 [Minimum Window Substring](https://github.com/zjkang/algorithm/blob/master/leetcode/076.%20Minimum%20Window%20Substring.cpp)
 - 077 Combinations
 - 078 Subsets
 - 079 Word Search
-- 080 Remove Duplicates from Sorted Array II
-- 081 Search in Rotated Sorted Array II
-- 082 Remove Duplicates from Sorted List II
-- 083 Remove Duplicates from Sorted List
+- [080 Remove Duplicates from Sorted Array II](https://github.com/zjkang/algorithm/blob/master/leetcode/080.%20Remove%20Duplicates%20From%20Sorted%20Array%20II.cpp)
+- [081 Search in Rotated Sorted Array II](https://github.com/zjkang/algorithm/blob/master/leetcode/081.%20Search%20In%20Rotated%20Sorted%20Array%20II.cpp)
+- [082 Remove Duplicates from Sorted List II](https://github.com/zjkang/algorithm/blob/master/leetcode/082.%20Remove%20Duplicates%20From%20Sorted%20List%20II.cpp)
+- [083 Remove Duplicates from Sorted List](https://github.com/zjkang/algorithm/blob/master/leetcode/083.%20Remove%20Duplicates%20From%20Sorted%20List%20I.cpp)
 - 084 Largest Rectangle in Histogram
 - 085 Maximal Rectangle
 - 086 Partition List
