@@ -228,7 +228,7 @@
 - 233 Number of Digit One
 - [234 Palindrome Linked List](https://github.com/zjkang/algorithm/blob/master/leetcode/234.%20Palindrome%20Linked%20List.cpp)
 - [235 Lowest Common Ancestor of a Binary Search Tree](https://github.com/zjkang/algorithm/blob/master/leetcode/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.cpp)
-- 236 Lowest Common Ancestor of a Binary Tree
+- [236 Lowest Common Ancestor of a Binary Tree](https://github.com/zjkang/algorithm/blob/master/leetcode/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.cpp)
 - 237 Delete Node in a Linked List
 - 238 Product of Array Except Self
 - 239 Sliding Window Maximum
