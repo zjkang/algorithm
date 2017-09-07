@@ -545,7 +545,7 @@
 - 567 Permutation in String
 - 568 [Maximum Vacation Days](https://github.com/zjkang/algorithm/blob/master/leetcode/568.%20Maximum%20Vacation%20Days.cpp)
 - 572 Subtree of Another Tree
-- 573 [Squirrel Simulation](https://github.com/zjkang/algorithm/blob/master/leetcode/573.%20Squirrel%20Simulation.cpp)
+- [573 Squirrel Simulation](https://github.com/zjkang/algorithm/blob/master/leetcode/573.%20Squirrel%20Simulation.cpp)
 - 575 Distribute Candies
 - 576 Out of Boundary Paths
 - [581 Shortest Unsorted Continuous Subarray](https://github.com/zjkang/algorithm/blob/master/leetcode/581.%20Shortest%20Unsorted%20Continuous%20Subarray.cpp)

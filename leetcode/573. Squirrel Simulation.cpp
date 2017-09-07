@@ -48,4 +48,3 @@ public:
         return 2*total + distance(squirrel, nuts[index]) - distance(tree, nuts[index]);
     }
 };
-
