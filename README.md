@@ -36,7 +36,7 @@
 - 031 Next Permutation
 - 032 Longest Valid Parentheses
 - 033 [Search in Rotated Sorted Array](https://github.com/zjkang/algorithm/blob/master/leetcode/033.%20Search%20In%20Rotated%20Sorted%20Array%20I.cpp)
-- 034 [Search for a Range](https://github.com/zjkang/algorithm/blob/master/leetcode/034.%20Search%20For%20A%20Range.cpp)
+- [034 Search for a Range](https://github.com/zjkang/algorithm/blob/master/leetcode/034.%20Search%20For%20A%20Range.cpp)
 - [035 Search Insert Position](https://github.com/zjkang/algorithm/blob/master/leetcode/035.%20Search%20Insert%20Position.cpp)
 - 036 Valid Sudoku
 - 037 Sudoku Solver
