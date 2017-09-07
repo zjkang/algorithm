@@ -269,7 +269,7 @@
 - 275 H-Index II 
 - 276 Paint Fence
 - 277 Find the Celebrity
-- 278 First Bad Version
+- [278 First Bad Version](https://github.com/zjkang/algorithm/blob/master/leetcode/278.%20Find%20First%20Bad%20Version.cpp)
 - 279 Perfect Squares
 - 280 Wiggle Sort
 - 281 Zigzag Iterator
