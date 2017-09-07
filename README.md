@@ -27,7 +27,7 @@
 - 022 Generate Parentheses
 - 023 [Merge k Sorted Lists](https://github.com/zjkang/algorithm/blob/master/leetcode/023.%20Merge%20K%20Sorted%20Lists.cpp)
 - 024 [Swap Nodes in Pairs](https://github.com/zjkang/algorithm/blob/master/leetcode/024.%20Swap%20Nodes%20In%20Pairs.cpp)
-- 025 [Reverse Nodes in k-Group](https://github.com/zjkang/algorithm/blob/master/leetcode/025.%20Reverse%20Nodes%20In%20K%20Group.cpp)
+- [025 Reverse Nodes in k-Group](https://github.com/zjkang/algorithm/blob/master/leetcode/025.%20Reverse%20Nodes%20In%20K%20Group.cpp)
 - [026 Remove Duplicates from Sorted Array](https://github.com/zjkang/algorithm/blob/master/leetcode/026.%20Remove%20Duplicates%20From%20Sorted%20Array%20I.cpp)
 - [027 Remove Element](https://github.com/zjkang/algorithm/blob/master/leetcode/027.%20Remove%20Element.cpp)
 - 028 Implement strStr()
