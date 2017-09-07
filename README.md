@@ -261,7 +261,7 @@
 - 267 Palindrome Permutation II
 - 268 Missing Number
 - 269 Alien Dictionary
-- 270 Closest Binary Search Tree Value
+- [270 Closest Binary Search Tree Value](https://github.com/zjkang/algorithm/blob/master/leetcode/270.%20Closest%20Binary%20Search%20Tree%20Value.cpp)
 - [271 Encode and Decode Strings](https://github.com/zjkang/algorithm/blob/master/leetcode/271.%20Encode%20and%20Decode%20Strings.cpp)
 - 272 Closest Binary Search Tree Value II
 - 273 Integer to English Words
