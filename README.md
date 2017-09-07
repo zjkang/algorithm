@@ -492,7 +492,7 @@
 - 503 [Next Greater Element II](https://github.com/zjkang/algorithm/blob/master/leetcode/503.%20Next%20Greater%20Element%20II.cpp)
 - 504 Base 7
 - 505 The Maze II
-- 506 [Relative Ranks](https://github.com/zjkang/algorithm/blob/master/leetcode/506.%20Relative%20Ranks.cpp)
+- [506 Relative Ranks](https://github.com/zjkang/algorithm/blob/master/leetcode/506.%20Relative%20Ranks.cpp)
 - 507 Perfect Number
 - [508 Most Frequent Subtree Sum](https://github.com/zjkang/algorithm/blob/master/leetcode/508.%20Most%20Frequent%20Subtree%20Sum.cpp)
 - 513 Find Bottom Left Tree Value
