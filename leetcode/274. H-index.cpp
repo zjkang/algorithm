@@ -43,5 +43,3 @@ public:
         return 0;
     }
 };
-
-
