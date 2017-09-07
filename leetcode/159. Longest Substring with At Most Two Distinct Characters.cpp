@@ -36,4 +36,4 @@ class Solution {
         res = max(res, j - i);
         return res;
     }
-}
+};
