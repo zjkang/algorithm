@@ -67,4 +67,3 @@ public:
         return dp[0][nums.size()-1] >= (sum[nums.size()-1] - dp[0][nums.size()-1]);
     }
 };
-
