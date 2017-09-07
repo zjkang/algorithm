@@ -129,7 +129,7 @@
 - 121 Best Time to Buy and Sell Stock
 - 122 Best Time to Buy and Sell Stock II
 - 123 Best Time to Buy and Sell Stock III
-- 124 Binary Tree Maximum Path Sum
+- [124 Binary Tree Maximum Path Sum](https://github.com/zjkang/algorithm/blob/master/leetcode/124.%20Binary%20Tree%20Maximum%20Path%20Sum.cpp)
 - 125 Valid Palindrome
 - 126 Word Ladder II
 - 127 Word Ladder
