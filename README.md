@@ -98,7 +98,7 @@
 - 093 Restore IP Addresses
 - [094 Binary Tree Inorder Traversal](https://github.com/zjkang/algorithm/blob/master/leetcode/094.%20Binary%20Tree%20Traversal%20Inorder.cpp)
 - [095 Unique Binary Search Trees II](https://github.com/zjkang/algorithm/blob/master/leetcode/095.%20Unique%20Binary%20Search%20Trees%20II.cpp)
-- 096 Unique Binary Search Trees
+- [096 Unique Binary Search Trees](https://github.com/zjkang/algorithm/blob/master/leetcode/096.%20Unique%20Binary%20Search%20Trees.cpp)
 - 097 Interleaving String
 - 098 Validate Binary Search Tree
 - 099 Recover Binary Search Tree
