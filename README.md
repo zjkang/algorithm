@@ -474,7 +474,7 @@
 - 486 [Predict the Winner](https://github.com/zjkang/algorithm/blob/master/leetcode/486.%20Predict%20the%20Winner.cpp)
 - 487 Max Consecutive Ones II
 - 488 Zuma Game
-- 490 [The Maze](https://github.com/zjkang/algorithm/blob/master/leetcode/490.%20The%20Maze.cpp)
+- [490 The Maze](https://github.com/zjkang/algorithm/blob/master/leetcode/490.%20The%20Maze.cpp)
 - 491 Increasing Subsequences
 - 492 Construct the Rectangle 
 - 493 Reverse Pairs
