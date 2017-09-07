@@ -419,7 +419,7 @@
 - 419 Battleships in a Board
 - 420 Strong Password Checker
 - 421 Maximum XOR of Two Numbers in an Array 
-- 422 Valid Word Square
+- [422 Valid Word Square](https://github.com/zjkang/algorithm/blob/master/leetcode/422.%20Valid%20Word%20Square.cpp)
 - 423 Reconstruct Original Digits from English 
 - 424 Longest Repeating Character Replacement
 - 425 Word Squares
