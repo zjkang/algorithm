@@ -266,7 +266,7 @@
 - 272 Closest Binary Search Tree Value II
 - 273 Integer to English Words
 - 274 H-Index 
-- 275 H-Index II 
+- [275 H-Index II](https://github.com/zjkang/algorithm/blob/master/leetcode/275.%20H-index%20II.cpp) 
 - 276 Paint Fence
 - 277 Find the Celebrity
 - [278 First Bad Version](https://github.com/zjkang/algorithm/blob/master/leetcode/278.%20Find%20First%20Bad%20Version.cpp)
