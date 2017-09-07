@@ -531,7 +531,7 @@
 - 551 [Student Attendance Record I](https://github.com/zjkang/algorithm/blob/master/leetcode/551.%20Student%20Attendance%20Record%20I.cpp)
 - 552 Student Attendance Record II 
 - 553 Optimal Division
-- 554 [Brick Wall](https://github.com/zjkang/algorithm/blob/master/leetcode/554.%20Brick%20Wall.cpp)
+- [554 Brick Wall](https://github.com/zjkang/algorithm/blob/master/leetcode/554.%20Brick%20Wall.cpp)
 - 555 Split Concatenated Strings
 - [556 Next Greater Element III](https://github.com/zjkang/algorithm/blob/master/leetcode/556.%20Next%20Greater%20Element%20III.cpp)
 - 557 Reverse Words in a String III 
