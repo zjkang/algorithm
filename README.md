@@ -249,7 +249,7 @@
 - 254 Factor Combinations
 - 255 Verify Preorder Sequence in Binary Search Tree
 - 256 Paint House
-- 257 Binary Tree Paths
+- [257 Binary Tree Paths](https://github.com/zjkang/algorithm/blob/master/leetcode/257.%20Binary%20Tree%20Paths.cpp)
 - 258 Add Digits
 - 259 3Sum Smaller
 - 260 Single Number III
