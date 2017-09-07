@@ -242,7 +242,7 @@
 - 247 Strobogrammatic Number II
 - 248 Strobogrammatic Number III
 - 249 Group Shifted Strings
-- 250 Count Univalue Subtrees
+- [250 Count Univalue Subtrees](https://github.com/zjkang/algorithm/blob/master/leetcode/250.%20Count%20Univalue%20Subtrees.cpp)
 - 251 Flatten 2D Vector
 - 252 Meeting Rooms
 - 253 Meeting Rooms II
