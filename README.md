@@ -195,7 +195,7 @@
 - 200 Number of Islands
 - 201 Bitwise AND of Numbers Range 
 - 202 Happy Number
-- 203 Remove Linked List Elements
+- [203 Remove Linked List Elements](https://github.com/zjkang/algorithm/blob/master/leetcode/203.%20Remove%20Linked%20List%20Elements.cpp)
 - 204 Count Primes
 - 205 Isomorphic Strings
 - 206 Reverse Linked List
