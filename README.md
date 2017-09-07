@@ -96,7 +96,7 @@
 - 091 Decode Ways
 - [092 Reverse Linked List II](https://github.com/zjkang/algorithm/blob/master/leetcode/092.%20Reverse%20Linked%20List%20II.cpp)
 - 093 Restore IP Addresses
-- 094 Binary Tree Inorder Traversal
+- [094 Binary Tree Inorder Traversal](https://github.com/zjkang/algorithm/blob/master/leetcode/094.%20Binary%20Tree%20Traversal%20Inorder.cpp)
 - 095 Unique Binary Search Trees II
 - 096 Unique Binary Search Trees
 - 097 Interleaving String
