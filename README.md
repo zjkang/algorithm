@@ -506,7 +506,7 @@
 - 523 Continuous Subarray Sum
 - 524 [Longest Word in Dictionary through Deleting](https://github.com/zjkang/algorithm/blob/master/leetcode/524.%20Longest%20Word%20in%20Dictionary%20through%20Deleting.cpp)
 - 525 [Contiguous Array](https://github.com/zjkang/algorithm/blob/master/leetcode/525.%20Contiguous%20Array.cpp)
-- 526 [Beautiful Arrangement](https://github.com/zjkang/algorithm/blob/master/leetcode/526.%20Beautiful%20Arrangement.cpp)
+- [526 Beautiful Arrangement](https://github.com/zjkang/algorithm/blob/master/leetcode/526.%20Beautiful%20Arrangement.cpp)
 - 527 Word Abbreviation
 - 529 Minesweeper 
 - [530 Minimum Absolute Difference in BST](https://github.com/zjkang/algorithm/blob/master/leetcode/530.%20Minimum%20Absolute%20Difference%20in%20BST.cpp)
