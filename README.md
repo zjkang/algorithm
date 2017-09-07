@@ -55,7 +55,7 @@
 - 050 [Pow(x, n)](https://github.com/zjkang/algorithm/blob/master/leetcode/050.%20Pow(x%2Cn).cpp)
 - 051 N-Queens
 - 052 N-Queens II
-- 053 [Maximum Subarray](https://github.com/zjkang/algorithm/blob/master/leetcode/053.%20Maximum%20Subarray.cpp)
+- [053 Maximum Subarray](https://github.com/zjkang/algorithm/blob/master/leetcode/053.%20Maximum%20Subarray.cpp)
 - 054 Spiral Matrix
 - 055 Jump Game
 - 056 Merge Intervals
