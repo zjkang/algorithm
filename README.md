@@ -262,7 +262,7 @@
 - 268 Missing Number
 - 269 Alien Dictionary
 - 270 Closest Binary Search Tree Value
-- 271 Encode and Decode Strings
+- [271 Encode and Decode Strings](https://github.com/zjkang/algorithm/blob/master/leetcode/271.%20Encode%20and%20Decode%20Strings.cpp)
 - 272 Closest Binary Search Tree Value II
 - 273 Integer to English Words
 - [274 H-Index](https://github.com/zjkang/algorithm/blob/master/leetcode/274.%20H-index.cpp) 
