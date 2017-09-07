@@ -44,4 +44,3 @@ public:
         return kthSmallestHelper(root->right, k, n);
     }
 };
-

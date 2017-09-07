@@ -222,7 +222,7 @@
 - 227 Basic Calculator II
 - 228 Summary Ranges
 - 229 Majority Element II
-- 230 Kth Smallest Element in a BST 
+- [230 Kth Smallest Element in a BST](https://github.com/zjkang/algorithm/blob/master/leetcode/230.%20Kth%20Smallest%20Element%20in%20a%20BST.cpp) 
 - 231 [Power of Two](https://github.com/zjkang/algorithm/blob/master/leetcode/231.%20Power%20of%20Two.cpp)
 - 232 Implement Queue using Stacks
 - 233 Number of Digit One
