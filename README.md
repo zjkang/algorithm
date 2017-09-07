@@ -167,7 +167,7 @@
 - [159 Longest Substring with At Most Two Distinct Characters](https://github.com/zjkang/algorithm/blob/master/leetcode/159.%20Longest%20Substring%20with%20At%20Most%20Two%20Distinct%20Characters.cpp)
 - [160 Intersection of Two Linked Lists](https://github.com/zjkang/algorithm/blob/master/leetcode/160.%20Intersection%20Of%20Two%20LinkedList.cpp)
 - 161 One Edit Distance
-- 162 Find Peak Element
+- [162 Find Peak Element](https://github.com/zjkang/algorithm/blob/master/leetcode/162.%20Find%20Peak%20Element.cpp)
 - 163 Missing Ranges
 - 164 Maximum Gap
 - 165 Compare Version Numbers
