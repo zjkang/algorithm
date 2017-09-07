@@ -6,7 +6,7 @@
 - [001 Two Sum](https://github.com/zjkang/algorithm/blob/master/leetcode/001.%202Sum.cpp)
 - [002 Add Two Numbers](https://github.com/zjkang/algorithm/blob/master/leetcode/002.%20Add%20Two%20Numbers.cpp)
 - [003 Longest Substring Without Repeating Characters](https://github.com/zjkang/algorithm/blob/master/leetcode/003.%20Longest%20Substring%20Without%20Repeating%20Characters.cpp)
-- 004 Median of Two Sorted Arrays
+- [004 Median of Two Sorted Arrays](https://github.com/zjkang/algorithm/blob/master/leetcode/004.%20Median%20Of%20Sorted%20Array.cpp)
 - 005 Longest Palindromic Substring
 - 006 ZigZag Conversion
 - 007 Reverse Integer
