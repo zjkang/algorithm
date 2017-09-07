@@ -576,7 +576,7 @@
 - 625 [Minimum Factorization](https://github.com/zjkang/algorithm/blob/master/leetcode/625.%20Minimum%20Factorization.cpp)
 - 628 [Maximum Product of Three Numbers](https://github.com/zjkang/algorithm/blob/master/leetcode/628.%20Maximum%20Product%20of%20Three%20Numbers.cpp)
 - 629 K Inverse Pairs Array
-- 630 [Course Schedule III](https://github.com/zjkang/algorithm/blob/master/leetcode/630.%20Course%20Schedule%20III.cpp)
+- [630 Course Schedule III](https://github.com/zjkang/algorithm/blob/master/leetcode/630.%20Course%20Schedule%20III.cpp)
 - 631 Design Excel Sum Formula
 - 632 Smallest Range
 - [633 Sum of Square Numbers](https://github.com/zjkang/algorithm/blob/master/leetcode/633.%20Sum%20of%20Square%20Numbers.cpp)
