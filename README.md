@@ -470,7 +470,7 @@
 - 482 License Key Formatting
 - 483 Smallest Good Base
 - 484 Find Permutation
-- 485 [Max Consecutive Ones](https://github.com/zjkang/algorithm/blob/master/leetcode/485.%20Max%20Consecutive%20Ones.cpp)
+- [485 Max Consecutive Ones](https://github.com/zjkang/algorithm/blob/master/leetcode/485.%20Max%20Consecutive%20Ones.cpp)
 - [486 Predict the Winner](https://github.com/zjkang/algorithm/blob/master/leetcode/486.%20Predict%20the%20Winner.cpp)
 - [487 Max Consecutive Ones II](https://github.com/zjkang/algorithm/blob/master/leetcode/487.%20Max%20Consecutive%20Ones%20II.cpp)
 - 488 Zuma Game

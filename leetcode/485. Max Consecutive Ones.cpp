@@ -37,5 +37,3 @@ public:
         return res;
     }
 };
-
-
