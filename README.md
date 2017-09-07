@@ -360,7 +360,7 @@
 - 363 Max Sum of Rectangle No Larger Than K
 - 364 Nested List Weight Sum II
 - 365 Water and Jug Problem
-- 366 Find Leaves of Binary Tree
+- [366 Find Leaves of Binary Tree](https://github.com/zjkang/algorithm/blob/master/leetcode/366.%20Find%20Leaves%20of%20Binary%20Tree.cpp)
 - [367 Valid Perfect Square](https://github.com/zjkang/algorithm/blob/master/leetcode/367.%20Valid%20Perfect%20Square.cpp) 
 - 368 Largest Divisible Subset 
 - [369 Plus One Linked List](https://github.com/zjkang/algorithm/blob/master/leetcode/369.%20Plus%20One%20Linked%20List.cpp)
