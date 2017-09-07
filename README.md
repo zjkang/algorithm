@@ -36,8 +36,8 @@
 - 031 Next Permutation
 - 032 Longest Valid Parentheses
 - 033 [Search in Rotated Sorted Array](https://github.com/zjkang/algorithm/blob/master/leetcode/033.%20Search%20In%20Rotated%20Sorted%20Array%20I.cpp)
-- 034 Search for a Range
-- 035 Search Insert Position
+- 034 [Search for a Range](https://github.com/zjkang/algorithm/blob/master/leetcode/034.%20Search%20For%20A%20Range.cpp)
+- 035 [Search Insert Position](https://github.com/zjkang/algorithm/blob/master/leetcode/035.%20Search%20Insert%20Position.cpp)
 - 036 Valid Sudoku
 - 037 Sudoku Solver
 - 038 Count and Say
@@ -52,7 +52,7 @@
 - 047 Permutations II
 - 048 Rotate Image
 - 049 Group Anagrams
-- 050 Pow(x, n)
+- 050 [Pow(x, n)](https://github.com/zjkang/algorithm/blob/master/leetcode/050.%20Pow(x%2Cn).cpp)
 - 051 N-Queens
 - 052 N-Queens II
 - 053 [Maximum Subarray](https://github.com/zjkang/algorithm/blob/master/leetcode/053.%20Maximum%20Subarray.cpp)
