@@ -87,6 +87,3 @@ private:
  * bool param_2 = obj.check(number);
  * obj.release(number);
  */
-
-
-

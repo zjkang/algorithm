@@ -373,7 +373,7 @@
 - 376 Wiggle Subsequence
 - 377 Combination Sum IV
 - 378 Kth Smallest Element in a Sorted Matrix
-- 379 Design Phone Directory
+- [379 Design Phone Directory](https://github.com/zjkang/algorithm/blob/master/leetcode/379.%20Design%20Phone%20Directory.cpp)
 - 380 Insert Delete GetRandom O(1)
 - 381 Insert Delete GetRandom O(1) - Duplicates allowed
 - 382 Linked List Random Node
