@@ -516,7 +516,7 @@
 - 535 Encode and Decode TinyURL 
 - 536 [Construct Binary Tree from String](https://github.com/zjkang/algorithm/blob/master/leetcode/536.%20Construct%20Binary%20Tree%20from%20String.cpp)
 - 537 Complex Number Multiplication
-- 538 [Convert BST to Greater Tree](https://github.com/zjkang/algorithm/blob/master/leetcode/538.%20Convert%20BST%20to%20Greater%20Tree.cpp)
+- [538 Convert BST to Greater Tree](https://github.com/zjkang/algorithm/blob/master/leetcode/538.%20Convert%20BST%20to%20Greater%20Tree.cpp)
 - 539 Minimum Time Difference
 - 540 Single Element in a Sorted Array
 - 541 Reverse String II
