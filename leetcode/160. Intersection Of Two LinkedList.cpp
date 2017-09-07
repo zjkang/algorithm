@@ -38,4 +38,4 @@ public:
         }
         return p1;
     }
-};    
+};
