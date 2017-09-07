@@ -572,7 +572,7 @@
 - 617 [Merge Two Binary Trees](https://github.com/zjkang/algorithm/blob/master/leetcode/617.%20Merge%20Two%20Binary%20Trees.cpp)
 - 621 Task Scheduler
 - 623 [Add One Row to Tree](https://github.com/zjkang/algorithm/blob/master/leetcode/623.%20Add%20One%20Row%20to%20Tree.cpp)
-- 624 [Maximum Distance in Arrays](https://github.com/zjkang/algorithm/blob/master/leetcode/624.%20Maximum%20Distance%20in%20Arrays.cpp)
+- [624 Maximum Distance in Arrays](https://github.com/zjkang/algorithm/blob/master/leetcode/624.%20Maximum%20Distance%20in%20Arrays.cpp)
 - [625 Minimum Factorization](https://github.com/zjkang/algorithm/blob/master/leetcode/625.%20Minimum%20Factorization.cpp)
 - [628 Maximum Product of Three Numbers](https://github.com/zjkang/algorithm/blob/master/leetcode/628.%20Maximum%20Product%20of%20Three%20Numbers.cpp)
 - 629 K Inverse Pairs Array
