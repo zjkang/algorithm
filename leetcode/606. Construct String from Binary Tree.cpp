@@ -2,7 +2,7 @@
  Author:     Zhengjian Kang
  Email:      zhengjian.kang@nyu.edu
  Problem:    Construct String from Binary Tree
- Source:     
+ Source:     https://leetcode.com/problems/construct-string-from-binary-tree/description/
  Difficulty: Easy
  Company:    Amazon
  Tags:       {Tree, String}
