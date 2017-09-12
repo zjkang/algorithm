@@ -614,7 +614,7 @@
 - 666 Path Sum IV
 - 667 Beautiful Arrangement II 
 - 668 Kth Smallest Number in Multiplication Table
-- 669 Trim a Binary Search Tree
+- [669 Trim a Binary Search Tree](https://github.com/zjkang/algorithm/blob/master/leetcode/669.%20Trim%20a%20Binary%20Search%20Tree.cpp)
 - 670 Maximum Swap
 - 671 Second Minimum Node In a Binary Tree
 - 672 Bulb Switcher II
